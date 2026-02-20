@@ -1,0 +1,450 @@
+Starting DiffQAS Training on tron08.umiacs.umd.edu
+Allocated CPUs: 16
+Allocated GPU: 0
+Initializing 4 parallel environments with Frame Stacking...
+DiffQAS initialized with 12 high-value architectures.
+Starting Training: 4 Envs | 1024 Steps/Env | Batch Size 4096
+--- Update 1 | Global Step 4096 | Episode return mean: 0.17 | episodes: 31
+--- Update 2 | Global Step 8192 | Episode return mean: 0.17 | episodes: 33
+--- Update 3 | Global Step 12288 | Episode return mean: 0.18 | episodes: 34
+--- Update 4 | Global Step 16384 | Episode return mean: 0.17 | episodes: 33
+--- Update 5 | Global Step 20480 | Episode return mean: 0.23 | episodes: 36
+  Active Architectures: 12 / 12
+--- Update 6 | Global Step 24576 | Episode return mean: 0.25 | episodes: 35
+--- Update 7 | Global Step 28672 | Episode return mean: 0.19 | episodes: 34
+--- Update 8 | Global Step 32768 | Episode return mean: 0.36 | episodes: 42
+--- Update 9 | Global Step 36864 | Episode return mean: 0.23 | episodes: 37
+--- Update 10 | Global Step 40960 | Episode return mean: 0.33 | episodes: 40
+  Active Architectures: 12 / 12
+Saving checkpoint: runs/MiniGrid-Empty-6x6-v0_20251217-123655/checkpoints/checkpoint_update_10.pth
+--- Update 11 | Global Step 45056 | Episode return mean: 0.36 | episodes: 42
+--- Update 12 | Global Step 49152 | Episode return mean: 0.39 | episodes: 46
+--- Update 13 | Global Step 53248 | Episode return mean: 0.38 | episodes: 42
+--- Update 14 | Global Step 57344 | Episode return mean: 0.44 | episodes: 46
+--- Update 15 | Global Step 61440 | Episode return mean: 0.47 | episodes: 51
+  Active Architectures: 12 / 12
+--- Update 16 | Global Step 65536 | Episode return mean: 0.49 | episodes: 52
+--- Update 17 | Global Step 69632 | Episode return mean: 0.52 | episodes: 53
+--- Update 18 | Global Step 73728 | Episode return mean: 0.53 | episodes: 57
+--- Update 19 | Global Step 77824 | Episode return mean: 0.56 | episodes: 60
+--- Update 20 | Global Step 81920 | Episode return mean: 0.63 | episodes: 70
+  Active Architectures: 12 / 12
+Saving checkpoint: runs/MiniGrid-Empty-6x6-v0_20251217-123655/checkpoints/checkpoint_update_20.pth
+--- Update 21 | Global Step 86016 | Episode return mean: 0.63 | episodes: 70
+--- Update 22 | Global Step 90112 | Episode return mean: 0.66 | episodes: 73
+--- Update 23 | Global Step 94208 | Episode return mean: 0.64 | episodes: 74
+--- Update 24 | Global Step 98304 | Episode return mean: 0.68 | episodes: 78
+--- Update 25 | Global Step 102400 | Episode return mean: 0.64 | episodes: 71
+  Active Architectures: 12 / 12
+--- Update 26 | Global Step 106496 | Episode return mean: 0.55 | episodes: 58
+--- Update 27 | Global Step 110592 | Episode return mean: 0.58 | episodes: 60
+--- Update 28 | Global Step 114688 | Episode return mean: 0.65 | episodes: 75
+--- Update 29 | Global Step 118784 | Episode return mean: 0.71 | episodes: 87
+--- Update 30 | Global Step 122880 | Episode return mean: 0.67 | episodes: 80
+  Active Architectures: 12 / 12
+Saving checkpoint: runs/MiniGrid-Empty-6x6-v0_20251217-123655/checkpoints/checkpoint_update_30.pth
+--- Update 31 | Global Step 126976 | Episode return mean: 0.72 | episodes: 93
+--- Update 32 | Global Step 131072 | Episode return mean: 0.67 | episodes: 77
+--- Update 33 | Global Step 135168 | Episode return mean: 0.74 | episodes: 97
+--- Update 34 | Global Step 139264 | Episode return mean: 0.73 | episodes: 96
+--- Update 35 | Global Step 143360 | Episode return mean: 0.68 | episodes: 77
+  Active Architectures: 12 / 12
+--- Update 36 | Global Step 147456 | Episode return mean: 0.68 | episodes: 80
+--- Update 37 | Global Step 151552 | Episode return mean: 0.71 | episodes: 89
+--- Update 38 | Global Step 155648 | Episode return mean: 0.77 | episodes: 107
+--- Update 39 | Global Step 159744 | Episode return mean: 0.68 | episodes: 82
+--- Update 40 | Global Step 163840 | Episode return mean: 0.78 | episodes: 113
+  Active Architectures: 12 / 12
+Saving checkpoint: runs/MiniGrid-Empty-6x6-v0_20251217-123655/checkpoints/checkpoint_update_40.pth
+--- Update 41 | Global Step 167936 | Episode return mean: 0.77 | episodes: 111
+--- Update 42 | Global Step 172032 | Episode return mean: 0.76 | episodes: 102
+--- Update 43 | Global Step 176128 | Episode return mean: 0.76 | episodes: 107
+--- Update 44 | Global Step 180224 | Episode return mean: 0.79 | episodes: 116
+--- Update 45 | Global Step 184320 | Episode return mean: 0.75 | episodes: 103
+  Active Architectures: 12 / 12
+--- Update 46 | Global Step 188416 | Episode return mean: 0.77 | episodes: 107
+--- Update 47 | Global Step 192512 | Episode return mean: 0.76 | episodes: 106
+--- Update 48 | Global Step 196608 | Episode return mean: 0.80 | episodes: 121
+--- Update 49 | Global Step 200704 | Episode return mean: 0.80 | episodes: 122
+--- Update 50 | Global Step 204800 | Episode return mean: 0.80 | episodes: 124
+  Active Architectures: 12 / 12
+Saving checkpoint: runs/MiniGrid-Empty-6x6-v0_20251217-123655/checkpoints/checkpoint_update_50.pth
+--- Update 51 | Global Step 208896 | Episode return mean: 0.77 | episodes: 108
+--- Update 52 | Global Step 212992 | Episode return mean: 0.79 | episodes: 120
+--- Update 53 | Global Step 217088 | Episode return mean: 0.80 | episodes: 122
+--- Update 54 | Global Step 221184 | Episode return mean: 0.75 | episodes: 103
+--- Update 55 | Global Step 225280 | Episode return mean: 0.82 | episodes: 143
+  Active Architectures: 12 / 12
+--- Update 56 | Global Step 229376 | Episode return mean: 0.82 | episodes: 141
+--- Update 57 | Global Step 233472 | Episode return mean: 0.83 | episodes: 143
+--- Update 58 | Global Step 237568 | Episode return mean: 0.81 | episodes: 132
+--- Update 59 | Global Step 241664 | Episode return mean: 0.84 | episodes: 149
+--- Update 60 | Global Step 245760 | Episode return mean: 0.81 | episodes: 134
+  Active Architectures: 12 / 12
+Saving checkpoint: runs/MiniGrid-Empty-6x6-v0_20251217-123655/checkpoints/checkpoint_update_60.pth
+--- Update 61 | Global Step 249856 | Episode return mean: 0.83 | episodes: 147
+--- Update 62 | Global Step 253952 | Episode return mean: 0.81 | episodes: 127
+--- Update 63 | Global Step 258048 | Episode return mean: 0.82 | episodes: 136
+--- Update 64 | Global Step 262144 | Episode return mean: 0.82 | episodes: 137
+--- Update 65 | Global Step 266240 | Episode return mean: 0.80 | episodes: 126
+  Active Architectures: 12 / 12
+--- Update 66 | Global Step 270336 | Episode return mean: 0.84 | episodes: 152
+--- Update 67 | Global Step 274432 | Episode return mean: 0.83 | episodes: 149
+--- Update 68 | Global Step 278528 | Episode return mean: 0.86 | episodes: 176
+--- Update 69 | Global Step 282624 | Episode return mean: 0.83 | episodes: 152
+--- Update 70 | Global Step 286720 | Episode return mean: 0.85 | episodes: 167
+  Active Architectures: 12 / 12
+Saving checkpoint: runs/MiniGrid-Empty-6x6-v0_20251217-123655/checkpoints/checkpoint_update_70.pth
+--- Update 71 | Global Step 290816 | Episode return mean: 0.86 | episodes: 173
+--- Update 72 | Global Step 294912 | Episode return mean: 0.85 | episodes: 166
+--- Update 73 | Global Step 299008 | Episode return mean: 0.86 | episodes: 175
+--- Update 74 | Global Step 303104 | Episode return mean: 0.86 | episodes: 180
+--- Update 75 | Global Step 307200 | Episode return mean: 0.88 | episodes: 208
+  Active Architectures: 12 / 12
+--- Update 76 | Global Step 311296 | Episode return mean: 0.87 | episodes: 181
+--- Update 77 | Global Step 315392 | Episode return mean: 0.88 | episodes: 208
+--- Update 78 | Global Step 319488 | Episode return mean: 0.88 | episodes: 204
+--- Update 79 | Global Step 323584 | Episode return mean: 0.90 | episodes: 238
+--- Update 80 | Global Step 327680 | Episode return mean: 0.89 | episodes: 228
+  Active Architectures: 12 / 12
+Saving checkpoint: runs/MiniGrid-Empty-6x6-v0_20251217-123655/checkpoints/checkpoint_update_80.pth
+--- Update 81 | Global Step 331776 | Episode return mean: 0.89 | episodes: 213
+--- Update 82 | Global Step 335872 | Episode return mean: 0.90 | episodes: 249
+--- Update 83 | Global Step 339968 | Episode return mean: 0.91 | episodes: 263
+--- Update 84 | Global Step 344064 | Episode return mean: 0.91 | episodes: 280
+--- Update 85 | Global Step 348160 | Episode return mean: 0.91 | episodes: 271
+  Active Architectures: 12 / 12
+--- Update 86 | Global Step 352256 | Episode return mean: 0.91 | episodes: 277
+--- Update 87 | Global Step 356352 | Episode return mean: 0.92 | episodes: 296
+--- Update 88 | Global Step 360448 | Episode return mean: 0.93 | episodes: 342
+--- Update 89 | Global Step 364544 | Episode return mean: 0.93 | episodes: 334
+--- Update 90 | Global Step 368640 | Episode return mean: 0.93 | episodes: 353
+  Active Architectures: 10 / 12
+Saving checkpoint: runs/MiniGrid-Empty-6x6-v0_20251217-123655/checkpoints/checkpoint_update_90.pth
+--- Update 91 | Global Step 372736 | Episode return mean: 0.94 | episodes: 395
+--- Update 92 | Global Step 376832 | Episode return mean: 0.94 | episodes: 395
+--- Update 93 | Global Step 380928 | Episode return mean: 0.95 | episodes: 434
+--- Update 94 | Global Step 385024 | Episode return mean: 0.95 | episodes: 434
+--- Update 95 | Global Step 389120 | Episode return mean: 0.95 | episodes: 435
+  Active Architectures: 8 / 12
+--- Update 96 | Global Step 393216 | Episode return mean: 0.95 | episodes: 448
+--- Update 97 | Global Step 397312 | Episode return mean: 0.95 | episodes: 467
+--- Update 98 | Global Step 401408 | Episode return mean: 0.95 | episodes: 463
+--- Update 99 | Global Step 405504 | Episode return mean: 0.95 | episodes: 447
+--- Update 100 | Global Step 409600 | Episode return mean: 0.95 | episodes: 474
+  Active Architectures: 7 / 12
+Saving checkpoint: runs/MiniGrid-Empty-6x6-v0_20251217-123655/checkpoints/checkpoint_update_100.pth
+--- Update 101 | Global Step 413696 | Episode return mean: 0.95 | episodes: 474
+--- Update 102 | Global Step 417792 | Episode return mean: 0.95 | episodes: 482
+--- Update 103 | Global Step 421888 | Episode return mean: 0.95 | episodes: 494
+--- Update 104 | Global Step 425984 | Episode return mean: 0.95 | episodes: 493
+--- Update 105 | Global Step 430080 | Episode return mean: 0.95 | episodes: 500
+  Active Architectures: 2 / 12
+--- Update 106 | Global Step 434176 | Episode return mean: 0.96 | episodes: 500
+--- Update 107 | Global Step 438272 | Episode return mean: 0.96 | episodes: 504
+--- Update 108 | Global Step 442368 | Episode return mean: 0.96 | episodes: 504
+--- Update 109 | Global Step 446464 | Episode return mean: 0.96 | episodes: 505
+--- Update 110 | Global Step 450560 | Episode return mean: 0.96 | episodes: 502
+  Active Architectures: 2 / 12
+Saving checkpoint: runs/MiniGrid-Empty-6x6-v0_20251217-123655/checkpoints/checkpoint_update_110.pth
+--- Update 111 | Global Step 454656 | Episode return mean: 0.96 | episodes: 508
+--- Update 112 | Global Step 458752 | Episode return mean: 0.96 | episodes: 503
+--- Update 113 | Global Step 462848 | Episode return mean: 0.96 | episodes: 508
+--- Update 114 | Global Step 466944 | Episode return mean: 0.96 | episodes: 504
+--- Update 115 | Global Step 471040 | Episode return mean: 0.96 | episodes: 500
+  Active Architectures: 2 / 12
+--- Update 116 | Global Step 475136 | Episode return mean: 0.96 | episodes: 503
+--- Update 117 | Global Step 479232 | Episode return mean: 0.95 | episodes: 496
+--- Update 118 | Global Step 483328 | Episode return mean: 0.96 | episodes: 501
+--- Update 119 | Global Step 487424 | Episode return mean: 0.96 | episodes: 507
+--- Update 120 | Global Step 491520 | Episode return mean: 0.96 | episodes: 508
+  Active Architectures: 2 / 12
+Saving checkpoint: runs/MiniGrid-Empty-6x6-v0_20251217-123655/checkpoints/checkpoint_update_120.pth
+--- Update 121 | Global Step 495616 | Episode return mean: 0.96 | episodes: 510
+--- Update 122 | Global Step 499712 | Episode return mean: 0.96 | episodes: 510
+[DiffQAS] Hard-locked architecture 11 at update 122 (max_prob=0.9589)
+--- Update 123 | Global Step 503808 | Episode return mean: 0.96 | episodes: 509
+--- Update 124 | Global Step 507904 | Episode return mean: 0.96 | episodes: 509
+--- Update 125 | Global Step 512000 | Episode return mean: 0.95 | episodes: 422
+  Active Architectures: 2 / 12
+--- Update 126 | Global Step 516096 | Episode return mean: 0.95 | episodes: 449
+--- Update 127 | Global Step 520192 | Episode return mean: 0.95 | episodes: 491
+--- Update 128 | Global Step 524288 | Episode return mean: 0.96 | episodes: 506
+--- Update 129 | Global Step 528384 | Episode return mean: 0.96 | episodes: 508
+--- Update 130 | Global Step 532480 | Episode return mean: 0.96 | episodes: 506
+  Active Architectures: 2 / 12
+Saving checkpoint: runs/MiniGrid-Empty-6x6-v0_20251217-123655/checkpoints/checkpoint_update_130.pth
+--- Update 131 | Global Step 536576 | Episode return mean: 0.96 | episodes: 510
+--- Update 132 | Global Step 540672 | Episode return mean: 0.96 | episodes: 506
+--- Update 133 | Global Step 544768 | Episode return mean: 0.96 | episodes: 506
+--- Update 134 | Global Step 548864 | Episode return mean: 0.96 | episodes: 509
+--- Update 135 | Global Step 552960 | Episode return mean: 0.96 | episodes: 509
+  Active Architectures: 2 / 12
+--- Update 136 | Global Step 557056 | Episode return mean: 0.96 | episodes: 505
+--- Update 137 | Global Step 561152 | Episode return mean: 0.96 | episodes: 509
+--- Update 138 | Global Step 565248 | Episode return mean: 0.96 | episodes: 510
+--- Update 139 | Global Step 569344 | Episode return mean: 0.96 | episodes: 510
+--- Update 140 | Global Step 573440 | Episode return mean: 0.96 | episodes: 510
+  Active Architectures: 1 / 12
+Saving checkpoint: runs/MiniGrid-Empty-6x6-v0_20251217-123655/checkpoints/checkpoint_update_140.pth
+--- Update 141 | Global Step 577536 | Episode return mean: 0.96 | episodes: 512
+--- Update 142 | Global Step 581632 | Episode return mean: 0.96 | episodes: 511
+--- Update 143 | Global Step 585728 | Episode return mean: 0.96 | episodes: 512
+--- Update 144 | Global Step 589824 | Episode return mean: 0.96 | episodes: 509
+--- Update 145 | Global Step 593920 | Episode return mean: 0.96 | episodes: 512
+  Active Architectures: 1 / 12
+--- Update 146 | Global Step 598016 | Episode return mean: 0.96 | episodes: 510
+--- Update 147 | Global Step 602112 | Episode return mean: 0.96 | episodes: 511
+--- Update 148 | Global Step 606208 | Episode return mean: 0.96 | episodes: 512
+--- Update 149 | Global Step 610304 | Episode return mean: 0.96 | episodes: 512
+--- Update 150 | Global Step 614400 | Episode return mean: 0.96 | episodes: 512
+  Active Architectures: 1 / 12
+Saving checkpoint: runs/MiniGrid-Empty-6x6-v0_20251217-123655/checkpoints/checkpoint_update_150.pth
+--- Update 151 | Global Step 618496 | Episode return mean: 0.96 | episodes: 512
+--- Update 152 | Global Step 622592 | Episode return mean: 0.96 | episodes: 511
+--- Update 153 | Global Step 626688 | Episode return mean: 0.96 | episodes: 512
+--- Update 154 | Global Step 630784 | Episode return mean: 0.96 | episodes: 512
+--- Update 155 | Global Step 634880 | Episode return mean: 0.96 | episodes: 511
+  Active Architectures: 1 / 12
+--- Update 156 | Global Step 638976 | Episode return mean: 0.96 | episodes: 511
+--- Update 157 | Global Step 643072 | Episode return mean: 0.96 | episodes: 511
+--- Update 158 | Global Step 647168 | Episode return mean: 0.96 | episodes: 512
+--- Update 159 | Global Step 651264 | Episode return mean: 0.96 | episodes: 511
+--- Update 160 | Global Step 655360 | Episode return mean: 0.96 | episodes: 512
+  Active Architectures: 1 / 12
+Saving checkpoint: runs/MiniGrid-Empty-6x6-v0_20251217-123655/checkpoints/checkpoint_update_160.pth
+--- Update 161 | Global Step 659456 | Episode return mean: 0.96 | episodes: 512
+--- Update 162 | Global Step 663552 | Episode return mean: 0.96 | episodes: 512
+--- Update 163 | Global Step 667648 | Episode return mean: 0.96 | episodes: 511
+--- Update 164 | Global Step 671744 | Episode return mean: 0.96 | episodes: 512
+--- Update 165 | Global Step 675840 | Episode return mean: 0.96 | episodes: 512
+  Active Architectures: 1 / 12
+--- Update 166 | Global Step 679936 | Episode return mean: 0.96 | episodes: 512
+--- Update 167 | Global Step 684032 | Episode return mean: 0.96 | episodes: 511
+--- Update 168 | Global Step 688128 | Episode return mean: 0.96 | episodes: 512
+--- Update 169 | Global Step 692224 | Episode return mean: 0.96 | episodes: 512
+--- Update 170 | Global Step 696320 | Episode return mean: 0.96 | episodes: 512
+  Active Architectures: 1 / 12
+Saving checkpoint: runs/MiniGrid-Empty-6x6-v0_20251217-123655/checkpoints/checkpoint_update_170.pth
+--- Update 171 | Global Step 700416 | Episode return mean: 0.96 | episodes: 512
+--- Update 172 | Global Step 704512 | Episode return mean: 0.96 | episodes: 511
+--- Update 173 | Global Step 708608 | Episode return mean: 0.96 | episodes: 511
+--- Update 174 | Global Step 712704 | Episode return mean: 0.96 | episodes: 512
+--- Update 175 | Global Step 716800 | Episode return mean: 0.96 | episodes: 512
+  Active Architectures: 1 / 12
+--- Update 176 | Global Step 720896 | Episode return mean: 0.96 | episodes: 511
+--- Update 177 | Global Step 724992 | Episode return mean: 0.96 | episodes: 510
+--- Update 178 | Global Step 729088 | Episode return mean: 0.96 | episodes: 512
+--- Update 179 | Global Step 733184 | Episode return mean: 0.96 | episodes: 511
+--- Update 180 | Global Step 737280 | Episode return mean: 0.96 | episodes: 512
+  Active Architectures: 1 / 12
+Saving checkpoint: runs/MiniGrid-Empty-6x6-v0_20251217-123655/checkpoints/checkpoint_update_180.pth
+--- Update 181 | Global Step 741376 | Episode return mean: 0.96 | episodes: 512
+--- Update 182 | Global Step 745472 | Episode return mean: 0.96 | episodes: 512
+--- Update 183 | Global Step 749568 | Episode return mean: 0.96 | episodes: 512
+--- Update 184 | Global Step 753664 | Episode return mean: 0.96 | episodes: 512
+--- Update 185 | Global Step 757760 | Episode return mean: 0.96 | episodes: 511
+  Active Architectures: 1 / 12
+--- Update 186 | Global Step 761856 | Episode return mean: 0.96 | episodes: 512
+--- Update 187 | Global Step 765952 | Episode return mean: 0.96 | episodes: 512
+--- Update 188 | Global Step 770048 | Episode return mean: 0.96 | episodes: 512
+--- Update 189 | Global Step 774144 | Episode return mean: 0.96 | episodes: 512
+--- Update 190 | Global Step 778240 | Episode return mean: 0.96 | episodes: 512
+  Active Architectures: 1 / 12
+Saving checkpoint: runs/MiniGrid-Empty-6x6-v0_20251217-123655/checkpoints/checkpoint_update_190.pth
+--- Update 191 | Global Step 782336 | Episode return mean: 0.96 | episodes: 512
+--- Update 192 | Global Step 786432 | Episode return mean: 0.96 | episodes: 512
+--- Update 193 | Global Step 790528 | Episode return mean: 0.96 | episodes: 512
+--- Update 194 | Global Step 794624 | Episode return mean: 0.96 | episodes: 512
+--- Update 195 | Global Step 798720 | Episode return mean: 0.96 | episodes: 512
+  Active Architectures: 1 / 12
+--- Update 196 | Global Step 802816 | Episode return mean: 0.96 | episodes: 512
+--- Update 197 | Global Step 806912 | Episode return mean: 0.96 | episodes: 512
+--- Update 198 | Global Step 811008 | Episode return mean: 0.96 | episodes: 512
+--- Update 199 | Global Step 815104 | Episode return mean: 0.96 | episodes: 511
+--- Update 200 | Global Step 819200 | Episode return mean: 0.96 | episodes: 512
+  Active Architectures: 1 / 12
+Saving checkpoint: runs/MiniGrid-Empty-6x6-v0_20251217-123655/checkpoints/checkpoint_update_200.pth
+--- Update 201 | Global Step 823296 | Episode return mean: 0.96 | episodes: 512
+--- Update 202 | Global Step 827392 | Episode return mean: 0.96 | episodes: 509
+--- Update 203 | Global Step 831488 | Episode return mean: 0.96 | episodes: 512
+--- Update 204 | Global Step 835584 | Episode return mean: 0.96 | episodes: 512
+--- Update 205 | Global Step 839680 | Episode return mean: 0.96 | episodes: 512
+  Active Architectures: 1 / 12
+--- Update 206 | Global Step 843776 | Episode return mean: 0.96 | episodes: 512
+--- Update 207 | Global Step 847872 | Episode return mean: 0.95 | episodes: 495
+--- Update 208 | Global Step 851968 | Episode return mean: 0.96 | episodes: 512
+--- Update 209 | Global Step 856064 | Episode return mean: 0.96 | episodes: 512
+--- Update 210 | Global Step 860160 | Episode return mean: 0.96 | episodes: 512
+  Active Architectures: 1 / 12
+Saving checkpoint: runs/MiniGrid-Empty-6x6-v0_20251217-123655/checkpoints/checkpoint_update_210.pth
+--- Update 211 | Global Step 864256 | Episode return mean: 0.96 | episodes: 512
+--- Update 212 | Global Step 868352 | Episode return mean: 0.96 | episodes: 512
+--- Update 213 | Global Step 872448 | Episode return mean: 0.96 | episodes: 511
+--- Update 214 | Global Step 876544 | Episode return mean: 0.96 | episodes: 512
+--- Update 215 | Global Step 880640 | Episode return mean: 0.96 | episodes: 511
+  Active Architectures: 1 / 12
+--- Update 216 | Global Step 884736 | Episode return mean: 0.96 | episodes: 512
+--- Update 217 | Global Step 888832 | Episode return mean: 0.96 | episodes: 512
+--- Update 218 | Global Step 892928 | Episode return mean: 0.96 | episodes: 512
+--- Update 219 | Global Step 897024 | Episode return mean: 0.96 | episodes: 512
+--- Update 220 | Global Step 901120 | Episode return mean: 0.96 | episodes: 512
+  Active Architectures: 1 / 12
+Saving checkpoint: runs/MiniGrid-Empty-6x6-v0_20251217-123655/checkpoints/checkpoint_update_220.pth
+--- Update 221 | Global Step 905216 | Episode return mean: 0.96 | episodes: 512
+--- Update 222 | Global Step 909312 | Episode return mean: 0.96 | episodes: 512
+--- Update 223 | Global Step 913408 | Episode return mean: 0.96 | episodes: 512
+--- Update 224 | Global Step 917504 | Episode return mean: 0.96 | episodes: 512
+--- Update 225 | Global Step 921600 | Episode return mean: 0.96 | episodes: 512
+  Active Architectures: 1 / 12
+--- Update 226 | Global Step 925696 | Episode return mean: 0.96 | episodes: 512
+--- Update 227 | Global Step 929792 | Episode return mean: 0.96 | episodes: 512
+--- Update 228 | Global Step 933888 | Episode return mean: 0.96 | episodes: 512
+--- Update 229 | Global Step 937984 | Episode return mean: 0.96 | episodes: 512
+--- Update 230 | Global Step 942080 | Episode return mean: 0.96 | episodes: 512
+  Active Architectures: 1 / 12
+Saving checkpoint: runs/MiniGrid-Empty-6x6-v0_20251217-123655/checkpoints/checkpoint_update_230.pth
+--- Update 231 | Global Step 946176 | Episode return mean: 0.96 | episodes: 512
+--- Update 232 | Global Step 950272 | Episode return mean: 0.96 | episodes: 512
+--- Update 233 | Global Step 954368 | Episode return mean: 0.96 | episodes: 512
+--- Update 234 | Global Step 958464 | Episode return mean: 0.96 | episodes: 512
+--- Update 235 | Global Step 962560 | Episode return mean: 0.96 | episodes: 512
+  Active Architectures: 1 / 12
+--- Update 236 | Global Step 966656 | Episode return mean: 0.96 | episodes: 511
+--- Update 237 | Global Step 970752 | Episode return mean: 0.96 | episodes: 512
+--- Update 238 | Global Step 974848 | Episode return mean: 0.96 | episodes: 512
+--- Update 239 | Global Step 978944 | Episode return mean: 0.96 | episodes: 512
+--- Update 240 | Global Step 983040 | Episode return mean: 0.96 | episodes: 512
+  Active Architectures: 1 / 12
+Saving checkpoint: runs/MiniGrid-Empty-6x6-v0_20251217-123655/checkpoints/checkpoint_update_240.pth
+--- Update 241 | Global Step 987136 | Episode return mean: 0.96 | episodes: 511
+--- Update 242 | Global Step 991232 | Episode return mean: 0.96 | episodes: 512
+--- Update 243 | Global Step 995328 | Episode return mean: 0.96 | episodes: 512
+--- Update 244 | Global Step 999424 | Episode return mean: 0.96 | episodes: 512
+--- Update 245 | Global Step 1003520 | Episode return mean: 0.96 | episodes: 512
+  Active Architectures: 1 / 12
+--- Update 246 | Global Step 1007616 | Episode return mean: 0.96 | episodes: 512
+--- Update 247 | Global Step 1011712 | Episode return mean: 0.96 | episodes: 512
+--- Update 248 | Global Step 1015808 | Episode return mean: 0.96 | episodes: 512
+--- Update 249 | Global Step 1019904 | Episode return mean: 0.96 | episodes: 512
+--- Update 250 | Global Step 1024000 | Episode return mean: 0.96 | episodes: 512
+  Active Architectures: 1 / 12
+Saving checkpoint: runs/MiniGrid-Empty-6x6-v0_20251217-123655/checkpoints/checkpoint_update_250.pth
+--- Update 251 | Global Step 1028096 | Episode return mean: 0.96 | episodes: 512
+--- Update 252 | Global Step 1032192 | Episode return mean: 0.96 | episodes: 512
+--- Update 253 | Global Step 1036288 | Episode return mean: 0.96 | episodes: 512
+--- Update 254 | Global Step 1040384 | Episode return mean: 0.96 | episodes: 512
+--- Update 255 | Global Step 1044480 | Episode return mean: 0.96 | episodes: 512
+  Active Architectures: 1 / 12
+--- Update 256 | Global Step 1048576 | Episode return mean: 0.96 | episodes: 512
+--- Update 257 | Global Step 1052672 | Episode return mean: 0.96 | episodes: 512
+--- Update 258 | Global Step 1056768 | Episode return mean: 0.96 | episodes: 512
+--- Update 259 | Global Step 1060864 | Episode return mean: 0.96 | episodes: 512
+--- Update 260 | Global Step 1064960 | Episode return mean: 0.96 | episodes: 512
+  Active Architectures: 1 / 12
+Saving checkpoint: runs/MiniGrid-Empty-6x6-v0_20251217-123655/checkpoints/checkpoint_update_260.pth
+--- Update 261 | Global Step 1069056 | Episode return mean: 0.96 | episodes: 512
+--- Update 262 | Global Step 1073152 | Episode return mean: 0.96 | episodes: 511
+--- Update 263 | Global Step 1077248 | Episode return mean: 0.96 | episodes: 512
+--- Update 264 | Global Step 1081344 | Episode return mean: 0.96 | episodes: 512
+--- Update 265 | Global Step 1085440 | Episode return mean: 0.96 | episodes: 512
+  Active Architectures: 1 / 12
+--- Update 266 | Global Step 1089536 | Episode return mean: 0.96 | episodes: 512
+--- Update 267 | Global Step 1093632 | Episode return mean: 0.96 | episodes: 512
+--- Update 268 | Global Step 1097728 | Episode return mean: 0.96 | episodes: 512
+--- Update 269 | Global Step 1101824 | Episode return mean: 0.96 | episodes: 512
+--- Update 270 | Global Step 1105920 | Episode return mean: 0.96 | episodes: 512
+  Active Architectures: 1 / 12
+Saving checkpoint: runs/MiniGrid-Empty-6x6-v0_20251217-123655/checkpoints/checkpoint_update_270.pth
+--- Update 271 | Global Step 1110016 | Episode return mean: 0.96 | episodes: 512
+--- Update 272 | Global Step 1114112 | Episode return mean: 0.96 | episodes: 512
+--- Update 273 | Global Step 1118208 | Episode return mean: 0.96 | episodes: 512
+--- Update 274 | Global Step 1122304 | Episode return mean: 0.95 | episodes: 495
+--- Update 275 | Global Step 1126400 | Episode return mean: 0.96 | episodes: 512
+  Active Architectures: 1 / 12
+--- Update 276 | Global Step 1130496 | Episode return mean: 0.96 | episodes: 511
+--- Update 277 | Global Step 1134592 | Episode return mean: 0.96 | episodes: 512
+--- Update 278 | Global Step 1138688 | Episode return mean: 0.96 | episodes: 512
+--- Update 279 | Global Step 1142784 | Episode return mean: 0.96 | episodes: 512
+--- Update 280 | Global Step 1146880 | Episode return mean: 0.96 | episodes: 512
+  Active Architectures: 1 / 12
+Saving checkpoint: runs/MiniGrid-Empty-6x6-v0_20251217-123655/checkpoints/checkpoint_update_280.pth
+--- Update 281 | Global Step 1150976 | Episode return mean: 0.96 | episodes: 512
+--- Update 282 | Global Step 1155072 | Episode return mean: 0.96 | episodes: 512
+--- Update 283 | Global Step 1159168 | Episode return mean: 0.96 | episodes: 512
+--- Update 284 | Global Step 1163264 | Episode return mean: 0.96 | episodes: 511
+--- Update 285 | Global Step 1167360 | Episode return mean: 0.96 | episodes: 512
+  Active Architectures: 1 / 12
+--- Update 286 | Global Step 1171456 | Episode return mean: 0.96 | episodes: 512
+--- Update 287 | Global Step 1175552 | Episode return mean: 0.96 | episodes: 512
+--- Update 288 | Global Step 1179648 | Episode return mean: 0.96 | episodes: 512
+--- Update 289 | Global Step 1183744 | Episode return mean: 0.96 | episodes: 512
+--- Update 290 | Global Step 1187840 | Episode return mean: 0.96 | episodes: 512
+  Active Architectures: 1 / 12
+Saving checkpoint: runs/MiniGrid-Empty-6x6-v0_20251217-123655/checkpoints/checkpoint_update_290.pth
+--- Update 291 | Global Step 1191936 | Episode return mean: 0.96 | episodes: 511
+--- Update 292 | Global Step 1196032 | Episode return mean: 0.96 | episodes: 512
+--- Update 293 | Global Step 1200128 | Episode return mean: 0.96 | episodes: 511
+--- Update 294 | Global Step 1204224 | Episode return mean: 0.96 | episodes: 509
+--- Update 295 | Global Step 1208320 | Episode return mean: 0.96 | episodes: 511
+  Active Architectures: 1 / 12
+--- Update 296 | Global Step 1212416 | Episode return mean: 0.96 | episodes: 512
+--- Update 297 | Global Step 1216512 | Episode return mean: 0.96 | episodes: 512
+--- Update 298 | Global Step 1220608 | Episode return mean: 0.96 | episodes: 512
+--- Update 299 | Global Step 1224704 | Episode return mean: 0.96 | episodes: 512
+--- Update 300 | Global Step 1228800 | Episode return mean: 0.96 | episodes: 512
+  Active Architectures: 1 / 12
+Saving checkpoint: runs/MiniGrid-Empty-6x6-v0_20251217-123655/checkpoints/checkpoint_update_300.pth
+--- Update 301 | Global Step 1232896 | Episode return mean: 0.96 | episodes: 512
+--- Update 302 | Global Step 1236992 | Episode return mean: 0.96 | episodes: 508
+--- Update 303 | Global Step 1241088 | Episode return mean: 0.96 | episodes: 512
+--- Update 304 | Global Step 1245184 | Episode return mean: 0.96 | episodes: 512
+--- Update 305 | Global Step 1249280 | Episode return mean: 0.96 | episodes: 512
+  Active Architectures: 1 / 12
+--- Update 306 | Global Step 1253376 | Episode return mean: 0.96 | episodes: 512
+--- Update 307 | Global Step 1257472 | Episode return mean: 0.96 | episodes: 512
+--- Update 308 | Global Step 1261568 | Episode return mean: 0.96 | episodes: 512
+--- Update 309 | Global Step 1265664 | Episode return mean: 0.96 | episodes: 512
+--- Update 310 | Global Step 1269760 | Episode return mean: 0.96 | episodes: 512
+  Active Architectures: 1 / 12
+Saving checkpoint: runs/MiniGrid-Empty-6x6-v0_20251217-123655/checkpoints/checkpoint_update_310.pth
+--- Update 311 | Global Step 1273856 | Episode return mean: 0.96 | episodes: 512
+--- Update 312 | Global Step 1277952 | Episode return mean: 0.96 | episodes: 512
+--- Update 313 | Global Step 1282048 | Episode return mean: 0.96 | episodes: 511
+--- Update 314 | Global Step 1286144 | Episode return mean: 0.96 | episodes: 511
+--- Update 315 | Global Step 1290240 | Episode return mean: 0.96 | episodes: 512
+  Active Architectures: 1 / 12
+--- Update 316 | Global Step 1294336 | Episode return mean: 0.96 | episodes: 512
+--- Update 317 | Global Step 1298432 | Episode return mean: 0.96 | episodes: 512
+--- Update 318 | Global Step 1302528 | Episode return mean: 0.96 | episodes: 512
+--- Update 319 | Global Step 1306624 | Episode return mean: 0.96 | episodes: 511
+--- Update 320 | Global Step 1310720 | Episode return mean: 0.96 | episodes: 512
+  Active Architectures: 1 / 12
+Saving checkpoint: runs/MiniGrid-Empty-6x6-v0_20251217-123655/checkpoints/checkpoint_update_320.pth
+--- Update 321 | Global Step 1314816 | Episode return mean: 0.96 | episodes: 512
+--- Update 322 | Global Step 1318912 | Episode return mean: 0.96 | episodes: 512
+--- Update 323 | Global Step 1323008 | Episode return mean: 0.96 | episodes: 512
+--- Update 324 | Global Step 1327104 | Episode return mean: 0.96 | episodes: 512
+--- Update 325 | Global Step 1331200 | Episode return mean: 0.96 | episodes: 512
+  Active Architectures: 1 / 12
+--- Update 326 | Global Step 1335296 | Episode return mean: 0.96 | episodes: 512
+--- Update 327 | Global Step 1339392 | Episode return mean: 0.96 | episodes: 512
+--- Update 328 | Global Step 1343488 | Episode return mean: 0.96 | episodes: 512
+--- Update 329 | Global Step 1347584 | Episode return mean: 0.96 | episodes: 511
+--- Update 330 | Global Step 1351680 | Episode return mean: 0.96 | episodes: 512
+  Active Architectures: 1 / 12
+Saving checkpoint: runs/MiniGrid-Empty-6x6-v0_20251217-123655/checkpoints/checkpoint_update_330.pth
+--- Update 331 | Global Step 1355776 | Episode return mean: 0.96 | episodes: 512
+--- Update 332 | Global Step 1359872 | Episode return mean: 0.96 | episodes: 512
+--- Update 333 | Global Step 1363968 | Episode return mean: 0.96 | episodes: 512
+--- Update 334 | Global Step 1368064 | Episode return mean: 0.96 | episodes: 512
+--- Update 335 | Global Step 1372160 | Episode return mean: 0.96 | episodes: 512
+  Active Architectures: 1 / 12
+--- Update 336 | Global Step 1376256 | Episode return mean: 0.96 | episodes: 512
+--- Update 337 | Global Step 1380352 | Episode return mean: 0.96 | episodes: 512
+--- Update 338 | Global Step 1384448 | Episode return mean: 0.96 | episodes: 512
+--- Update 339 | Global Step 1388544 | Episode return mean: 0.96 | episodes: 512
+--- Update 340 | Global Step 1392640 | Episode return mean: 0.96 | episodes: 512
+  Active Architectures: 1 / 12
+Saving checkpoint: runs/MiniGrid-Empty-6x6-v0_20251217-123655/checkpoints/checkpoint_update_340.pth
+--- Update 341 | Global Step 1396736 | Episode return mean: 0.96 | episodes: 512
