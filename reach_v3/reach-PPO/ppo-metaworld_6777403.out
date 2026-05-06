@@ -1,0 +1,2232 @@
+Device: cuda (NVIDIA RTX A4000)
+Device: cpu
+ENV: reach-v3
+Global steps: 9984
+Global steps: 19968
+Global steps: 29952
+Global steps: 39936
+Global steps: 49920
+Global steps: 59904
+Global steps: 69888
+Global steps: 79872
+Global steps: 89856
+Global steps: 99840
+[PPO] steps=100000 | reward=10.90 | success=14.0% | SPS=1334
+Global steps: 109824
+Global steps: 119808
+Global steps: 129792
+Global steps: 139776
+Global steps: 149760
+Global steps: 159744
+Global steps: 169728
+Global steps: 179712
+Global steps: 189696
+Global steps: 199680
+[PPO] steps=200000 | reward=12.15 | success=34.0% | SPS=1193
+Global steps: 209664
+Global steps: 219648
+Global steps: 229632
+Global steps: 239616
+Global steps: 249600
+Global steps: 259584
+Global steps: 269568
+Global steps: 279552
+Global steps: 289536
+Global steps: 299520
+[PPO] steps=300000 | reward=11.88 | success=36.0% | SPS=1247
+Global steps: 309504
+Global steps: 319488
+Global steps: 329472
+Global steps: 339456
+Global steps: 349440
+Global steps: 359424
+Global steps: 369408
+Global steps: 379392
+Global steps: 389376
+Global steps: 399360
+[PPO] steps=400000 | reward=10.82 | success=44.0% | SPS=1204
+Global steps: 409344
+Global steps: 419328
+Global steps: 429312
+Global steps: 439296
+Global steps: 449280
+Global steps: 459264
+Global steps: 469248
+Global steps: 479232
+Global steps: 489216
+Global steps: 499200
+[PPO] steps=500000 | reward=11.41 | success=38.0% | SPS=1234
+Global steps: 509184
+Global steps: 519168
+Global steps: 529152
+Global steps: 539136
+Global steps: 549120
+Global steps: 559104
+Global steps: 569088
+Global steps: 579072
+Global steps: 589056
+Global steps: 599040
+[PPO] steps=600000 | reward=11.33 | success=32.0% | SPS=1209
+Global steps: 609024
+Global steps: 619008
+Global steps: 628992
+Global steps: 638976
+Global steps: 648960
+Global steps: 658944
+Global steps: 668928
+Global steps: 678912
+Global steps: 688896
+Global steps: 698880
+[PPO] steps=700000 | reward=11.97 | success=40.0% | SPS=1230
+Global steps: 708864
+Global steps: 718848
+Global steps: 728832
+Global steps: 738816
+Global steps: 748800
+Global steps: 758784
+Global steps: 768768
+Global steps: 778752
+Global steps: 788736
+Global steps: 798720
+[PPO] steps=800000 | reward=11.90 | success=28.0% | SPS=1211
+Global steps: 808704
+Global steps: 818688
+Global steps: 828672
+Global steps: 838656
+Global steps: 848640
+Global steps: 858624
+Global steps: 868608
+Global steps: 878592
+Global steps: 888576
+Global steps: 898560
+[PPO] steps=900000 | reward=13.04 | success=44.0% | SPS=1227
+Global steps: 908544
+Global steps: 918528
+Global steps: 928512
+Global steps: 938496
+Global steps: 948480
+Global steps: 958464
+Global steps: 968448
+Global steps: 978432
+Global steps: 988416
+Global steps: 998400
+[PPO] steps=1000000 | reward=13.07 | success=48.0% | SPS=1213
+[Checkpoint] Saving model at 1000000 steps -> PPO_runs/metaworld_reach-v3_20260506-001943/ppo_ckpt_1000000_steps.zip
+Global steps: 1008384
+Global steps: 1018368
+Global steps: 1028352
+Global steps: 1038336
+Global steps: 1048320
+Global steps: 1058304
+Global steps: 1068288
+Global steps: 1078272
+Global steps: 1088256
+Global steps: 1098240
+[PPO] steps=1100000 | reward=14.06 | success=64.0% | SPS=1226
+Global steps: 1108224
+Global steps: 1118208
+Global steps: 1128192
+Global steps: 1138176
+Global steps: 1148160
+Global steps: 1158144
+Global steps: 1168128
+Global steps: 1178112
+Global steps: 1188096
+Global steps: 1198080
+[PPO] steps=1200000 | reward=13.82 | success=54.0% | SPS=1213
+Global steps: 1208064
+Global steps: 1218048
+Global steps: 1228032
+Global steps: 1238016
+Global steps: 1248000
+Global steps: 1257984
+Global steps: 1267968
+Global steps: 1277952
+Global steps: 1287936
+Global steps: 1297920
+[PPO] steps=1300000 | reward=13.93 | success=52.0% | SPS=1224
+Global steps: 1307904
+Global steps: 1317888
+Global steps: 1327872
+Global steps: 1337856
+Global steps: 1347840
+Global steps: 1357824
+Global steps: 1367808
+Global steps: 1377792
+Global steps: 1387776
+Global steps: 1397760
+[PPO] steps=1400000 | reward=14.61 | success=62.0% | SPS=1214
+Global steps: 1407744
+Global steps: 1417728
+Global steps: 1427712
+Global steps: 1437696
+Global steps: 1447680
+Global steps: 1457664
+Global steps: 1467648
+Global steps: 1477632
+Global steps: 1487616
+Global steps: 1497600
+[PPO] steps=1500000 | reward=14.47 | success=56.0% | SPS=1224
+Global steps: 1507584
+Global steps: 1517568
+Global steps: 1527552
+Global steps: 1537536
+Global steps: 1547520
+Global steps: 1557504
+Global steps: 1567488
+Global steps: 1577472
+Global steps: 1587456
+Global steps: 1597440
+[PPO] steps=1600000 | reward=14.85 | success=66.0% | SPS=1215
+Global steps: 1607424
+Global steps: 1617408
+Global steps: 1627392
+Global steps: 1637376
+Global steps: 1647360
+Global steps: 1657344
+Global steps: 1667328
+Global steps: 1677312
+Global steps: 1687296
+Global steps: 1697280
+[PPO] steps=1700000 | reward=14.26 | success=66.0% | SPS=1223
+Global steps: 1707264
+Global steps: 1717248
+Global steps: 1727232
+Global steps: 1737216
+Global steps: 1747200
+Global steps: 1757184
+Global steps: 1767168
+Global steps: 1777152
+Global steps: 1787136
+Global steps: 1797120
+[PPO] steps=1800000 | reward=15.10 | success=62.0% | SPS=1216
+Global steps: 1807104
+Global steps: 1817088
+Global steps: 1827072
+Global steps: 1837056
+Global steps: 1847040
+Global steps: 1857024
+Global steps: 1867008
+Global steps: 1876992
+Global steps: 1886976
+Global steps: 1896960
+[PPO] steps=1900000 | reward=14.81 | success=80.0% | SPS=1223
+Global steps: 1906944
+Global steps: 1916928
+Global steps: 1926912
+Global steps: 1936896
+Global steps: 1946880
+Global steps: 1956864
+Global steps: 1966848
+Global steps: 1976832
+Global steps: 1986816
+Global steps: 1996800
+[PPO] steps=2000000 | reward=14.48 | success=52.0% | SPS=1216
+[Checkpoint] Saving model at 2000000 steps -> PPO_runs/metaworld_reach-v3_20260506-001943/ppo_ckpt_2000000_steps.zip
+Global steps: 2006784
+Global steps: 2016768
+Global steps: 2026752
+Global steps: 2036736
+Global steps: 2046720
+Global steps: 2056704
+Global steps: 2066688
+Global steps: 2076672
+Global steps: 2086656
+Global steps: 2096640
+[PPO] steps=2100000 | reward=14.78 | success=56.0% | SPS=1210
+Global steps: 2106624
+Global steps: 2116608
+Global steps: 2126592
+Global steps: 2136576
+Global steps: 2146560
+Global steps: 2156544
+Global steps: 2166528
+Global steps: 2176512
+Global steps: 2186496
+Global steps: 2196480
+[PPO] steps=2200000 | reward=15.29 | success=70.0% | SPS=1217
+Global steps: 2206464
+Global steps: 2216448
+Global steps: 2226432
+Global steps: 2236416
+Global steps: 2246400
+Global steps: 2256384
+Global steps: 2266368
+Global steps: 2276352
+Global steps: 2286336
+Global steps: 2296320
+[PPO] steps=2300000 | reward=15.61 | success=72.0% | SPS=1211
+Global steps: 2306304
+Global steps: 2316288
+Global steps: 2326272
+Global steps: 2336256
+Global steps: 2346240
+Global steps: 2356224
+Global steps: 2366208
+Global steps: 2376192
+Global steps: 2386176
+Global steps: 2396160
+[PPO] steps=2400000 | reward=15.87 | success=78.0% | SPS=1217
+Global steps: 2406144
+Global steps: 2416128
+Global steps: 2426112
+Global steps: 2436096
+Global steps: 2446080
+Global steps: 2456064
+Global steps: 2466048
+Global steps: 2476032
+Global steps: 2486016
+Global steps: 2496000
+[PPO] steps=2500000 | reward=14.33 | success=52.0% | SPS=1212
+Global steps: 2505984
+Global steps: 2515968
+Global steps: 2525952
+Global steps: 2535936
+Global steps: 2545920
+Global steps: 2555904
+Global steps: 2565888
+Global steps: 2575872
+Global steps: 2585856
+Global steps: 2595840
+[PPO] steps=2600000 | reward=15.28 | success=76.0% | SPS=1217
+Global steps: 2605824
+Global steps: 2615808
+Global steps: 2625792
+Global steps: 2635776
+Global steps: 2645760
+Global steps: 2655744
+Global steps: 2665728
+Global steps: 2675712
+Global steps: 2685696
+Global steps: 2695680
+[PPO] steps=2700000 | reward=15.37 | success=74.0% | SPS=1212
+Global steps: 2705664
+Global steps: 2715648
+Global steps: 2725632
+Global steps: 2735616
+Global steps: 2745600
+Global steps: 2755584
+Global steps: 2765568
+Global steps: 2775552
+Global steps: 2785536
+Global steps: 2795520
+[PPO] steps=2800000 | reward=15.59 | success=62.0% | SPS=1217
+Global steps: 2805504
+Global steps: 2815488
+Global steps: 2825472
+Global steps: 2835456
+Global steps: 2845440
+Global steps: 2855424
+Global steps: 2865408
+Global steps: 2875392
+Global steps: 2885376
+Global steps: 2895360
+[PPO] steps=2900000 | reward=15.84 | success=78.0% | SPS=1213
+Global steps: 2905344
+Global steps: 2915328
+Global steps: 2925312
+Global steps: 2935296
+Global steps: 2945280
+Global steps: 2955264
+Global steps: 2965248
+Global steps: 2975232
+Global steps: 2985216
+Global steps: 2995200
+[PPO] steps=3000000 | reward=15.20 | success=64.0% | SPS=1218
+[Checkpoint] Saving model at 3000000 steps -> PPO_runs/metaworld_reach-v3_20260506-001943/ppo_ckpt_3000000_steps.zip
+Global steps: 3005184
+Global steps: 3015168
+Global steps: 3025152
+Global steps: 3035136
+Global steps: 3045120
+Global steps: 3055104
+Global steps: 3065088
+Global steps: 3075072
+Global steps: 3085056
+Global steps: 3095040
+[PPO] steps=3100000 | reward=15.37 | success=70.0% | SPS=1213
+Global steps: 3105024
+Global steps: 3115008
+Global steps: 3124992
+Global steps: 3134976
+Global steps: 3144960
+Global steps: 3154944
+Global steps: 3164928
+Global steps: 3174912
+Global steps: 3184896
+Global steps: 3194880
+[PPO] steps=3200000 | reward=15.03 | success=54.0% | SPS=1218
+Global steps: 3204864
+Global steps: 3214848
+Global steps: 3224832
+Global steps: 3234816
+Global steps: 3244800
+Global steps: 3254784
+Global steps: 3264768
+Global steps: 3274752
+Global steps: 3284736
+Global steps: 3294720
+[PPO] steps=3300000 | reward=15.80 | success=72.0% | SPS=1214
+Global steps: 3304704
+Global steps: 3314688
+Global steps: 3324672
+Global steps: 3334656
+Global steps: 3344640
+Global steps: 3354624
+Global steps: 3364608
+Global steps: 3374592
+Global steps: 3384576
+Global steps: 3394560
+[PPO] steps=3400000 | reward=15.22 | success=62.0% | SPS=1218
+Global steps: 3404544
+Global steps: 3414528
+Global steps: 3424512
+Global steps: 3434496
+Global steps: 3444480
+Global steps: 3454464
+Global steps: 3464448
+Global steps: 3474432
+Global steps: 3484416
+Global steps: 3494400
+[PPO] steps=3500000 | reward=15.50 | success=78.0% | SPS=1214
+Global steps: 3504384
+Global steps: 3514368
+Global steps: 3524352
+Global steps: 3534336
+Global steps: 3544320
+Global steps: 3554304
+Global steps: 3564288
+Global steps: 3574272
+Global steps: 3584256
+Global steps: 3594240
+[PPO] steps=3600000 | reward=15.50 | success=72.0% | SPS=1218
+Global steps: 3604224
+Global steps: 3614208
+Global steps: 3624192
+Global steps: 3634176
+Global steps: 3644160
+Global steps: 3654144
+Global steps: 3664128
+Global steps: 3674112
+Global steps: 3684096
+Global steps: 3694080
+[PPO] steps=3700000 | reward=15.37 | success=76.0% | SPS=1215
+Global steps: 3704064
+Global steps: 3714048
+Global steps: 3724032
+Global steps: 3734016
+Global steps: 3744000
+Global steps: 3753984
+Global steps: 3763968
+Global steps: 3773952
+Global steps: 3783936
+Global steps: 3793920
+[PPO] steps=3800000 | reward=16.02 | success=80.0% | SPS=1218
+Global steps: 3803904
+Global steps: 3813888
+Global steps: 3823872
+Global steps: 3833856
+Global steps: 3843840
+Global steps: 3853824
+Global steps: 3863808
+Global steps: 3873792
+Global steps: 3883776
+Global steps: 3893760
+[PPO] steps=3900000 | reward=15.71 | success=68.0% | SPS=1215
+Global steps: 3903744
+Global steps: 3913728
+Global steps: 3923712
+Global steps: 3933696
+Global steps: 3943680
+Global steps: 3953664
+Global steps: 3963648
+Global steps: 3973632
+Global steps: 3983616
+Global steps: 3993600
+[PPO] steps=4000000 | reward=15.99 | success=82.0% | SPS=1211
+[Checkpoint] Saving model at 4000000 steps -> PPO_runs/metaworld_reach-v3_20260506-001943/ppo_ckpt_4000000_steps.zip
+Global steps: 4003584
+Global steps: 4013568
+Global steps: 4023552
+Global steps: 4033536
+Global steps: 4043520
+Global steps: 4053504
+Global steps: 4063488
+Global steps: 4073472
+Global steps: 4083456
+Global steps: 4093440
+[PPO] steps=4100000 | reward=15.78 | success=80.0% | SPS=1215
+Global steps: 4103424
+Global steps: 4113408
+Global steps: 4123392
+Global steps: 4133376
+Global steps: 4143360
+Global steps: 4153344
+Global steps: 4163328
+Global steps: 4173312
+Global steps: 4183296
+Global steps: 4193280
+[PPO] steps=4200000 | reward=15.69 | success=80.0% | SPS=1212
+Global steps: 4203264
+Global steps: 4213248
+Global steps: 4223232
+Global steps: 4233216
+Global steps: 4243200
+Global steps: 4253184
+Global steps: 4263168
+Global steps: 4273152
+Global steps: 4283136
+Global steps: 4293120
+[PPO] steps=4300000 | reward=15.84 | success=86.0% | SPS=1215
+Global steps: 4303104
+Global steps: 4313088
+Global steps: 4323072
+Global steps: 4333056
+Global steps: 4343040
+Global steps: 4353024
+Global steps: 4363008
+Global steps: 4372992
+Global steps: 4382976
+Global steps: 4392960
+[PPO] steps=4400000 | reward=15.85 | success=88.0% | SPS=1212
+Global steps: 4402944
+Global steps: 4412928
+Global steps: 4422912
+Global steps: 4432896
+Global steps: 4442880
+Global steps: 4452864
+Global steps: 4462848
+Global steps: 4472832
+Global steps: 4482816
+Global steps: 4492800
+[PPO] steps=4500000 | reward=15.93 | success=84.0% | SPS=1215
+Global steps: 4502784
+Global steps: 4512768
+Global steps: 4522752
+Global steps: 4532736
+Global steps: 4542720
+Global steps: 4552704
+Global steps: 4562688
+Global steps: 4572672
+Global steps: 4582656
+Global steps: 4592640
+[PPO] steps=4600000 | reward=15.99 | success=86.0% | SPS=1212
+Global steps: 4602624
+Global steps: 4612608
+Global steps: 4622592
+Global steps: 4632576
+Global steps: 4642560
+Global steps: 4652544
+Global steps: 4662528
+Global steps: 4672512
+Global steps: 4682496
+Global steps: 4692480
+[PPO] steps=4700000 | reward=16.09 | success=92.0% | SPS=1215
+Global steps: 4702464
+Global steps: 4712448
+Global steps: 4722432
+Global steps: 4732416
+Global steps: 4742400
+Global steps: 4752384
+Global steps: 4762368
+Global steps: 4772352
+Global steps: 4782336
+Global steps: 4792320
+[PPO] steps=4800000 | reward=15.73 | success=88.0% | SPS=1213
+Global steps: 4802304
+Global steps: 4812288
+Global steps: 4822272
+Global steps: 4832256
+Global steps: 4842240
+Global steps: 4852224
+Global steps: 4862208
+Global steps: 4872192
+Global steps: 4882176
+Global steps: 4892160
+[PPO] steps=4900000 | reward=15.79 | success=86.0% | SPS=1215
+Global steps: 4902144
+Global steps: 4912128
+Global steps: 4922112
+Global steps: 4932096
+Global steps: 4942080
+Global steps: 4952064
+Global steps: 4962048
+Global steps: 4972032
+Global steps: 4982016
+Global steps: 4992000
+[PPO] steps=5000000 | reward=15.99 | success=90.0% | SPS=1213
+[Checkpoint] Saving model at 5000000 steps -> PPO_runs/metaworld_reach-v3_20260506-001943/ppo_ckpt_5000000_steps.zip
+Global steps: 5001984
+Global steps: 5011968
+Global steps: 5021952
+Global steps: 5031936
+Global steps: 5041920
+Global steps: 5051904
+Global steps: 5061888
+Global steps: 5071872
+Global steps: 5081856
+Global steps: 5091840
+[PPO] steps=5100000 | reward=15.87 | success=90.0% | SPS=1216
+Global steps: 5101824
+Global steps: 5111808
+Global steps: 5121792
+Global steps: 5131776
+Global steps: 5141760
+Global steps: 5151744
+Global steps: 5161728
+Global steps: 5171712
+Global steps: 5181696
+Global steps: 5191680
+[PPO] steps=5200000 | reward=16.12 | success=94.0% | SPS=1213
+Global steps: 5201664
+Global steps: 5211648
+Global steps: 5221632
+Global steps: 5231616
+Global steps: 5241600
+Global steps: 5251584
+Global steps: 5261568
+Global steps: 5271552
+Global steps: 5281536
+Global steps: 5291520
+[PPO] steps=5300000 | reward=16.16 | success=98.0% | SPS=1215
+Global steps: 5301504
+Global steps: 5311488
+Global steps: 5321472
+Global steps: 5331456
+Global steps: 5341440
+Global steps: 5351424
+Global steps: 5361408
+Global steps: 5371392
+Global steps: 5381376
+Global steps: 5391360
+[PPO] steps=5400000 | reward=15.93 | success=92.0% | SPS=1213
+Global steps: 5401344
+Global steps: 5411328
+Global steps: 5421312
+Global steps: 5431296
+Global steps: 5441280
+Global steps: 5451264
+Global steps: 5461248
+Global steps: 5471232
+Global steps: 5481216
+Global steps: 5491200
+[PPO] steps=5500000 | reward=15.84 | success=92.0% | SPS=1216
+Global steps: 5501184
+Global steps: 5511168
+Global steps: 5521152
+Global steps: 5531136
+Global steps: 5541120
+Global steps: 5551104
+Global steps: 5561088
+Global steps: 5571072
+Global steps: 5581056
+Global steps: 5591040
+[PPO] steps=5600000 | reward=15.50 | success=90.0% | SPS=1213
+Global steps: 5601024
+Global steps: 5611008
+Global steps: 5620992
+Global steps: 5630976
+Global steps: 5640960
+Global steps: 5650944
+Global steps: 5660928
+Global steps: 5670912
+Global steps: 5680896
+Global steps: 5690880
+[PPO] steps=5700000 | reward=16.02 | success=96.0% | SPS=1216
+Global steps: 5700864
+Global steps: 5710848
+Global steps: 5720832
+Global steps: 5730816
+Global steps: 5740800
+Global steps: 5750784
+Global steps: 5760768
+Global steps: 5770752
+Global steps: 5780736
+Global steps: 5790720
+[PPO] steps=5800000 | reward=16.00 | success=96.0% | SPS=1213
+Global steps: 5800704
+Global steps: 5810688
+Global steps: 5820672
+Global steps: 5830656
+Global steps: 5840640
+Global steps: 5850624
+Global steps: 5860608
+Global steps: 5870592
+Global steps: 5880576
+Global steps: 5890560
+[PPO] steps=5900000 | reward=16.09 | success=98.0% | SPS=1211
+Global steps: 5900544
+Global steps: 5910528
+Global steps: 5920512
+Global steps: 5930496
+Global steps: 5940480
+Global steps: 5950464
+Global steps: 5960448
+Global steps: 5970432
+Global steps: 5980416
+Global steps: 5990400
+[PPO] steps=6000000 | reward=16.01 | success=98.0% | SPS=1213
+[Checkpoint] Saving model at 6000000 steps -> PPO_runs/metaworld_reach-v3_20260506-001943/ppo_ckpt_6000000_steps.zip
+Global steps: 6000384
+Global steps: 6010368
+Global steps: 6020352
+Global steps: 6030336
+Global steps: 6040320
+Global steps: 6050304
+Global steps: 6060288
+Global steps: 6070272
+Global steps: 6080256
+Global steps: 6090240
+[PPO] steps=6100000 | reward=16.15 | success=98.0% | SPS=1211
+Global steps: 6100224
+Global steps: 6110208
+Global steps: 6120192
+Global steps: 6130176
+Global steps: 6140160
+Global steps: 6150144
+Global steps: 6160128
+Global steps: 6170112
+Global steps: 6180096
+Global steps: 6190080
+[PPO] steps=6200000 | reward=16.07 | success=90.0% | SPS=1214
+Global steps: 6200064
+Global steps: 6210048
+Global steps: 6220032
+Global steps: 6230016
+Global steps: 6240000
+Global steps: 6249984
+Global steps: 6259968
+Global steps: 6269952
+Global steps: 6279936
+Global steps: 6289920
+Global steps: 6299904
+[PPO] steps=6300000 | reward=15.80 | success=96.0% | SPS=1211
+Global steps: 6309888
+Global steps: 6319872
+Global steps: 6329856
+Global steps: 6339840
+Global steps: 6349824
+Global steps: 6359808
+Global steps: 6369792
+Global steps: 6379776
+Global steps: 6389760
+Global steps: 6399744
+[PPO] steps=6400000 | reward=15.94 | success=98.0% | SPS=1214
+Global steps: 6409728
+Global steps: 6419712
+Global steps: 6429696
+Global steps: 6439680
+Global steps: 6449664
+Global steps: 6459648
+Global steps: 6469632
+Global steps: 6479616
+Global steps: 6489600
+Global steps: 6499584
+[PPO] steps=6500000 | reward=16.01 | success=96.0% | SPS=1211
+Global steps: 6509568
+Global steps: 6519552
+Global steps: 6529536
+Global steps: 6539520
+Global steps: 6549504
+Global steps: 6559488
+Global steps: 6569472
+Global steps: 6579456
+Global steps: 6589440
+Global steps: 6599424
+[PPO] steps=6600000 | reward=15.94 | success=92.0% | SPS=1214
+Global steps: 6609408
+Global steps: 6619392
+Global steps: 6629376
+Global steps: 6639360
+Global steps: 6649344
+Global steps: 6659328
+Global steps: 6669312
+Global steps: 6679296
+Global steps: 6689280
+Global steps: 6699264
+[PPO] steps=6700000 | reward=15.96 | success=92.0% | SPS=1212
+Global steps: 6709248
+Global steps: 6719232
+Global steps: 6729216
+Global steps: 6739200
+Global steps: 6749184
+Global steps: 6759168
+Global steps: 6769152
+Global steps: 6779136
+Global steps: 6789120
+Global steps: 6799104
+[PPO] steps=6800000 | reward=16.19 | success=96.0% | SPS=1214
+Global steps: 6809088
+Global steps: 6819072
+Global steps: 6829056
+Global steps: 6839040
+Global steps: 6849024
+Global steps: 6859008
+Global steps: 6868992
+Global steps: 6878976
+Global steps: 6888960
+Global steps: 6898944
+[PPO] steps=6900000 | reward=16.24 | success=100.0% | SPS=1212
+Global steps: 6908928
+Global steps: 6918912
+Global steps: 6928896
+Global steps: 6938880
+Global steps: 6948864
+Global steps: 6958848
+Global steps: 6968832
+Global steps: 6978816
+Global steps: 6988800
+Global steps: 6998784
+[PPO] steps=7000000 | reward=16.20 | success=100.0% | SPS=1214
+[Checkpoint] Saving model at 7000000 steps -> PPO_runs/metaworld_reach-v3_20260506-001943/ppo_ckpt_7000000_steps.zip
+Global steps: 7008768
+Global steps: 7018752
+Global steps: 7028736
+Global steps: 7038720
+Global steps: 7048704
+Global steps: 7058688
+Global steps: 7068672
+Global steps: 7078656
+Global steps: 7088640
+Global steps: 7098624
+[PPO] steps=7100000 | reward=15.89 | success=96.0% | SPS=1212
+Global steps: 7108608
+Global steps: 7118592
+Global steps: 7128576
+Global steps: 7138560
+Global steps: 7148544
+Global steps: 7158528
+Global steps: 7168512
+Global steps: 7178496
+Global steps: 7188480
+Global steps: 7198464
+[PPO] steps=7200000 | reward=15.73 | success=94.0% | SPS=1214
+Global steps: 7208448
+Global steps: 7218432
+Global steps: 7228416
+Global steps: 7238400
+Global steps: 7248384
+Global steps: 7258368
+Global steps: 7268352
+Global steps: 7278336
+Global steps: 7288320
+Global steps: 7298304
+[PPO] steps=7300000 | reward=16.04 | success=96.0% | SPS=1212
+Global steps: 7308288
+Global steps: 7318272
+Global steps: 7328256
+Global steps: 7338240
+Global steps: 7348224
+Global steps: 7358208
+Global steps: 7368192
+Global steps: 7378176
+Global steps: 7388160
+Global steps: 7398144
+[PPO] steps=7400000 | reward=15.96 | success=96.0% | SPS=1214
+Global steps: 7408128
+Global steps: 7418112
+Global steps: 7428096
+Global steps: 7438080
+Global steps: 7448064
+Global steps: 7458048
+Global steps: 7468032
+Global steps: 7478016
+Global steps: 7488000
+Global steps: 7497984
+[PPO] steps=7500000 | reward=16.02 | success=96.0% | SPS=1212
+Global steps: 7507968
+Global steps: 7517952
+Global steps: 7527936
+Global steps: 7537920
+Global steps: 7547904
+Global steps: 7557888
+Global steps: 7567872
+Global steps: 7577856
+Global steps: 7587840
+Global steps: 7597824
+[PPO] steps=7600000 | reward=16.11 | success=98.0% | SPS=1214
+Global steps: 7607808
+Global steps: 7617792
+Global steps: 7627776
+Global steps: 7637760
+Global steps: 7647744
+Global steps: 7657728
+Global steps: 7667712
+Global steps: 7677696
+Global steps: 7687680
+Global steps: 7697664
+[PPO] steps=7700000 | reward=16.16 | success=100.0% | SPS=1212
+Global steps: 7707648
+Global steps: 7717632
+Global steps: 7727616
+Global steps: 7737600
+Global steps: 7747584
+Global steps: 7757568
+Global steps: 7767552
+Global steps: 7777536
+Global steps: 7787520
+Global steps: 7797504
+[PPO] steps=7800000 | reward=16.13 | success=96.0% | SPS=1211
+Global steps: 7807488
+Global steps: 7817472
+Global steps: 7827456
+Global steps: 7837440
+Global steps: 7847424
+Global steps: 7857408
+Global steps: 7867392
+Global steps: 7877376
+Global steps: 7887360
+Global steps: 7897344
+[PPO] steps=7900000 | reward=16.26 | success=100.0% | SPS=1212
+Global steps: 7907328
+Global steps: 7917312
+Global steps: 7927296
+Global steps: 7937280
+Global steps: 7947264
+Global steps: 7957248
+Global steps: 7967232
+Global steps: 7977216
+Global steps: 7987200
+Global steps: 7997184
+[PPO] steps=8000000 | reward=16.24 | success=100.0% | SPS=1211
+[Checkpoint] Saving model at 8000000 steps -> PPO_runs/metaworld_reach-v3_20260506-001943/ppo_ckpt_8000000_steps.zip
+Global steps: 8007168
+Global steps: 8017152
+Global steps: 8027136
+Global steps: 8037120
+Global steps: 8047104
+Global steps: 8057088
+Global steps: 8067072
+Global steps: 8077056
+Global steps: 8087040
+Global steps: 8097024
+[PPO] steps=8100000 | reward=16.12 | success=98.0% | SPS=1212
+Global steps: 8107008
+Global steps: 8116992
+Global steps: 8126976
+Global steps: 8136960
+Global steps: 8146944
+Global steps: 8156928
+Global steps: 8166912
+Global steps: 8176896
+Global steps: 8186880
+Global steps: 8196864
+[PPO] steps=8200000 | reward=16.15 | success=98.0% | SPS=1211
+Global steps: 8206848
+Global steps: 8216832
+Global steps: 8226816
+Global steps: 8236800
+Global steps: 8246784
+Global steps: 8256768
+Global steps: 8266752
+Global steps: 8276736
+Global steps: 8286720
+Global steps: 8296704
+[PPO] steps=8300000 | reward=16.11 | success=100.0% | SPS=1213
+Global steps: 8306688
+Global steps: 8316672
+Global steps: 8326656
+Global steps: 8336640
+Global steps: 8346624
+Global steps: 8356608
+Global steps: 8366592
+Global steps: 8376576
+Global steps: 8386560
+Global steps: 8396544
+[PPO] steps=8400000 | reward=16.27 | success=100.0% | SPS=1211
+Global steps: 8406528
+Global steps: 8416512
+Global steps: 8426496
+Global steps: 8436480
+Global steps: 8446464
+Global steps: 8456448
+Global steps: 8466432
+Global steps: 8476416
+Global steps: 8486400
+Global steps: 8496384
+[PPO] steps=8500000 | reward=15.93 | success=96.0% | SPS=1213
+Global steps: 8506368
+Global steps: 8516352
+Global steps: 8526336
+Global steps: 8536320
+Global steps: 8546304
+Global steps: 8556288
+Global steps: 8566272
+Global steps: 8576256
+Global steps: 8586240
+Global steps: 8596224
+[PPO] steps=8600000 | reward=16.08 | success=100.0% | SPS=1211
+Global steps: 8606208
+Global steps: 8616192
+Global steps: 8626176
+Global steps: 8636160
+Global steps: 8646144
+Global steps: 8656128
+Global steps: 8666112
+Global steps: 8676096
+Global steps: 8686080
+Global steps: 8696064
+[PPO] steps=8700000 | reward=16.31 | success=98.0% | SPS=1213
+Global steps: 8706048
+Global steps: 8716032
+Global steps: 8726016
+Global steps: 8736000
+Global steps: 8745984
+Global steps: 8755968
+Global steps: 8765952
+Global steps: 8775936
+Global steps: 8785920
+Global steps: 8795904
+[PPO] steps=8800000 | reward=16.05 | success=96.0% | SPS=1211
+Global steps: 8805888
+Global steps: 8815872
+Global steps: 8825856
+Global steps: 8835840
+Global steps: 8845824
+Global steps: 8855808
+Global steps: 8865792
+Global steps: 8875776
+Global steps: 8885760
+Global steps: 8895744
+[PPO] steps=8900000 | reward=16.40 | success=100.0% | SPS=1213
+Global steps: 8905728
+Global steps: 8915712
+Global steps: 8925696
+Global steps: 8935680
+Global steps: 8945664
+Global steps: 8955648
+Global steps: 8965632
+Global steps: 8975616
+Global steps: 8985600
+Global steps: 8995584
+[PPO] steps=9000000 | reward=16.25 | success=100.0% | SPS=1211
+[Checkpoint] Saving model at 9000000 steps -> PPO_runs/metaworld_reach-v3_20260506-001943/ppo_ckpt_9000000_steps.zip
+Global steps: 9005568
+Global steps: 9015552
+Global steps: 9025536
+Global steps: 9035520
+Global steps: 9045504
+Global steps: 9055488
+Global steps: 9065472
+Global steps: 9075456
+Global steps: 9085440
+Global steps: 9095424
+[PPO] steps=9100000 | reward=16.42 | success=100.0% | SPS=1213
+Global steps: 9105408
+Global steps: 9115392
+Global steps: 9125376
+Global steps: 9135360
+Global steps: 9145344
+Global steps: 9155328
+Global steps: 9165312
+Global steps: 9175296
+Global steps: 9185280
+Global steps: 9195264
+[PPO] steps=9200000 | reward=16.21 | success=100.0% | SPS=1212
+Global steps: 9205248
+Global steps: 9215232
+Global steps: 9225216
+Global steps: 9235200
+Global steps: 9245184
+Global steps: 9255168
+Global steps: 9265152
+Global steps: 9275136
+Global steps: 9285120
+Global steps: 9295104
+[PPO] steps=9300000 | reward=16.21 | success=98.0% | SPS=1213
+Global steps: 9305088
+Global steps: 9315072
+Global steps: 9325056
+Global steps: 9335040
+Global steps: 9345024
+Global steps: 9355008
+Global steps: 9364992
+Global steps: 9374976
+Global steps: 9384960
+Global steps: 9394944
+[PPO] steps=9400000 | reward=16.37 | success=100.0% | SPS=1212
+Global steps: 9404928
+Global steps: 9414912
+Global steps: 9424896
+Global steps: 9434880
+Global steps: 9444864
+Global steps: 9454848
+Global steps: 9464832
+Global steps: 9474816
+Global steps: 9484800
+Global steps: 9494784
+[PPO] steps=9500000 | reward=16.45 | success=100.0% | SPS=1213
+Global steps: 9504768
+Global steps: 9514752
+Global steps: 9524736
+Global steps: 9534720
+Global steps: 9544704
+Global steps: 9554688
+Global steps: 9564672
+Global steps: 9574656
+Global steps: 9584640
+Global steps: 9594624
+[PPO] steps=9600000 | reward=16.09 | success=98.0% | SPS=1212
+Global steps: 9604608
+Global steps: 9614592
+Global steps: 9624576
+Global steps: 9634560
+Global steps: 9644544
+Global steps: 9654528
+Global steps: 9664512
+Global steps: 9674496
+Global steps: 9684480
+Global steps: 9694464
+[PPO] steps=9700000 | reward=16.18 | success=96.0% | SPS=1211
+Global steps: 9704448
+Global steps: 9714432
+Global steps: 9724416
+Global steps: 9734400
+Global steps: 9744384
+Global steps: 9754368
+Global steps: 9764352
+Global steps: 9774336
+Global steps: 9784320
+Global steps: 9794304
+[PPO] steps=9800000 | reward=16.00 | success=98.0% | SPS=1212
+Global steps: 9804288
+Global steps: 9814272
+Global steps: 9824256
+Global steps: 9834240
+Global steps: 9844224
+Global steps: 9854208
+Global steps: 9864192
+Global steps: 9874176
+Global steps: 9884160
+Global steps: 9894144
+[PPO] steps=9900000 | reward=16.09 | success=98.0% | SPS=1211
+Global steps: 9904128
+Global steps: 9914112
+Global steps: 9924096
+Global steps: 9934080
+Global steps: 9944064
+Global steps: 9954048
+Global steps: 9964032
+Global steps: 9974016
+Global steps: 9984000
+Global steps: 9993984
+[PPO] steps=10000000 | reward=16.10 | success=96.0% | SPS=1212
+[Checkpoint] Saving model at 10000000 steps -> PPO_runs/metaworld_reach-v3_20260506-001943/ppo_ckpt_10000000_steps.zip
+Global steps: 10003968
+Global steps: 10013952
+Global steps: 10023936
+Global steps: 10033920
+Global steps: 10043904
+Global steps: 10053888
+Global steps: 10063872
+Global steps: 10073856
+Global steps: 10083840
+Global steps: 10093824
+[PPO] steps=10100000 | reward=16.10 | success=98.0% | SPS=1211
+Global steps: 10103808
+Global steps: 10113792
+Global steps: 10123776
+Global steps: 10133760
+Global steps: 10143744
+Global steps: 10153728
+Global steps: 10163712
+Global steps: 10173696
+Global steps: 10183680
+Global steps: 10193664
+[PPO] steps=10200000 | reward=15.95 | success=96.0% | SPS=1212
+Global steps: 10203648
+Global steps: 10213632
+Global steps: 10223616
+Global steps: 10233600
+Global steps: 10243584
+Global steps: 10253568
+Global steps: 10263552
+Global steps: 10273536
+Global steps: 10283520
+Global steps: 10293504
+[PPO] steps=10300000 | reward=16.46 | success=100.0% | SPS=1211
+Global steps: 10303488
+Global steps: 10313472
+Global steps: 10323456
+Global steps: 10333440
+Global steps: 10343424
+Global steps: 10353408
+Global steps: 10363392
+Global steps: 10373376
+Global steps: 10383360
+Global steps: 10393344
+[PPO] steps=10400000 | reward=16.18 | success=98.0% | SPS=1212
+Global steps: 10403328
+Global steps: 10413312
+Global steps: 10423296
+Global steps: 10433280
+Global steps: 10443264
+Global steps: 10453248
+Global steps: 10463232
+Global steps: 10473216
+Global steps: 10483200
+Global steps: 10493184
+[PPO] steps=10500000 | reward=16.34 | success=100.0% | SPS=1211
+Global steps: 10503168
+Global steps: 10513152
+Global steps: 10523136
+Global steps: 10533120
+Global steps: 10543104
+Global steps: 10553088
+Global steps: 10563072
+Global steps: 10573056
+Global steps: 10583040
+Global steps: 10593024
+[PPO] steps=10600000 | reward=16.37 | success=100.0% | SPS=1212
+Global steps: 10603008
+Global steps: 10612992
+Global steps: 10622976
+Global steps: 10632960
+Global steps: 10642944
+Global steps: 10652928
+Global steps: 10662912
+Global steps: 10672896
+Global steps: 10682880
+Global steps: 10692864
+[PPO] steps=10700000 | reward=16.41 | success=100.0% | SPS=1211
+Global steps: 10702848
+Global steps: 10712832
+Global steps: 10722816
+Global steps: 10732800
+Global steps: 10742784
+Global steps: 10752768
+Global steps: 10762752
+Global steps: 10772736
+Global steps: 10782720
+Global steps: 10792704
+[PPO] steps=10800000 | reward=16.22 | success=98.0% | SPS=1213
+Global steps: 10802688
+Global steps: 10812672
+Global steps: 10822656
+Global steps: 10832640
+Global steps: 10842624
+Global steps: 10852608
+Global steps: 10862592
+Global steps: 10872576
+Global steps: 10882560
+Global steps: 10892544
+[PPO] steps=10900000 | reward=16.12 | success=96.0% | SPS=1211
+Global steps: 10902528
+Global steps: 10912512
+Global steps: 10922496
+Global steps: 10932480
+Global steps: 10942464
+Global steps: 10952448
+Global steps: 10962432
+Global steps: 10972416
+Global steps: 10982400
+Global steps: 10992384
+[PPO] steps=11000000 | reward=16.39 | success=100.0% | SPS=1213
+[Checkpoint] Saving model at 11000000 steps -> PPO_runs/metaworld_reach-v3_20260506-001943/ppo_ckpt_11000000_steps.zip
+Global steps: 11002368
+Global steps: 11012352
+Global steps: 11022336
+Global steps: 11032320
+Global steps: 11042304
+Global steps: 11052288
+Global steps: 11062272
+Global steps: 11072256
+Global steps: 11082240
+Global steps: 11092224
+[PPO] steps=11100000 | reward=16.25 | success=98.0% | SPS=1211
+Global steps: 11102208
+Global steps: 11112192
+Global steps: 11122176
+Global steps: 11132160
+Global steps: 11142144
+Global steps: 11152128
+Global steps: 11162112
+Global steps: 11172096
+Global steps: 11182080
+Global steps: 11192064
+[PPO] steps=11200000 | reward=15.97 | success=96.0% | SPS=1213
+Global steps: 11202048
+Global steps: 11212032
+Global steps: 11222016
+Global steps: 11232000
+Global steps: 11241984
+Global steps: 11251968
+Global steps: 11261952
+Global steps: 11271936
+Global steps: 11281920
+Global steps: 11291904
+[PPO] steps=11300000 | reward=16.38 | success=100.0% | SPS=1212
+Global steps: 11301888
+Global steps: 11311872
+Global steps: 11321856
+Global steps: 11331840
+Global steps: 11341824
+Global steps: 11351808
+Global steps: 11361792
+Global steps: 11371776
+Global steps: 11381760
+Global steps: 11391744
+[PPO] steps=11400000 | reward=16.45 | success=100.0% | SPS=1213
+Global steps: 11401728
+Global steps: 11411712
+Global steps: 11421696
+Global steps: 11431680
+Global steps: 11441664
+Global steps: 11451648
+Global steps: 11461632
+Global steps: 11471616
+Global steps: 11481600
+Global steps: 11491584
+[PPO] steps=11500000 | reward=16.21 | success=100.0% | SPS=1212
+Global steps: 11501568
+Global steps: 11511552
+Global steps: 11521536
+Global steps: 11531520
+Global steps: 11541504
+Global steps: 11551488
+Global steps: 11561472
+Global steps: 11571456
+Global steps: 11581440
+Global steps: 11591424
+[PPO] steps=11600000 | reward=16.35 | success=100.0% | SPS=1211
+Global steps: 11601408
+Global steps: 11611392
+Global steps: 11621376
+Global steps: 11631360
+Global steps: 11641344
+Global steps: 11651328
+Global steps: 11661312
+Global steps: 11671296
+Global steps: 11681280
+Global steps: 11691264
+[PPO] steps=11700000 | reward=16.49 | success=100.0% | SPS=1212
+Global steps: 11701248
+Global steps: 11711232
+Global steps: 11721216
+Global steps: 11731200
+Global steps: 11741184
+Global steps: 11751168
+Global steps: 11761152
+Global steps: 11771136
+Global steps: 11781120
+Global steps: 11791104
+[PPO] steps=11800000 | reward=16.48 | success=100.0% | SPS=1211
+Global steps: 11801088
+Global steps: 11811072
+Global steps: 11821056
+Global steps: 11831040
+Global steps: 11841024
+Global steps: 11851008
+Global steps: 11860992
+Global steps: 11870976
+Global steps: 11880960
+Global steps: 11890944
+[PPO] steps=11900000 | reward=16.52 | success=100.0% | SPS=1212
+Global steps: 11900928
+Global steps: 11910912
+Global steps: 11920896
+Global steps: 11930880
+Global steps: 11940864
+Global steps: 11950848
+Global steps: 11960832
+Global steps: 11970816
+Global steps: 11980800
+Global steps: 11990784
+[PPO] steps=12000000 | reward=16.44 | success=100.0% | SPS=1211
+[Checkpoint] Saving model at 12000000 steps -> PPO_runs/metaworld_reach-v3_20260506-001943/ppo_ckpt_12000000_steps.zip
+Global steps: 12000768
+Global steps: 12010752
+Global steps: 12020736
+Global steps: 12030720
+Global steps: 12040704
+Global steps: 12050688
+Global steps: 12060672
+Global steps: 12070656
+Global steps: 12080640
+Global steps: 12090624
+[PPO] steps=12100000 | reward=16.38 | success=98.0% | SPS=1212
+Global steps: 12100608
+Global steps: 12110592
+Global steps: 12120576
+Global steps: 12130560
+Global steps: 12140544
+Global steps: 12150528
+Global steps: 12160512
+Global steps: 12170496
+Global steps: 12180480
+Global steps: 12190464
+[PPO] steps=12200000 | reward=16.52 | success=100.0% | SPS=1211
+Global steps: 12200448
+Global steps: 12210432
+Global steps: 12220416
+Global steps: 12230400
+Global steps: 12240384
+Global steps: 12250368
+Global steps: 12260352
+Global steps: 12270336
+Global steps: 12280320
+Global steps: 12290304
+[PPO] steps=12300000 | reward=16.22 | success=96.0% | SPS=1212
+Global steps: 12300288
+Global steps: 12310272
+Global steps: 12320256
+Global steps: 12330240
+Global steps: 12340224
+Global steps: 12350208
+Global steps: 12360192
+Global steps: 12370176
+Global steps: 12380160
+Global steps: 12390144
+[PPO] steps=12400000 | reward=16.49 | success=100.0% | SPS=1211
+Global steps: 12400128
+Global steps: 12410112
+Global steps: 12420096
+Global steps: 12430080
+Global steps: 12440064
+Global steps: 12450048
+Global steps: 12460032
+Global steps: 12470016
+Global steps: 12480000
+Global steps: 12489984
+Global steps: 12499968
+[PPO] steps=12500000 | reward=16.56 | success=100.0% | SPS=1212
+Global steps: 12509952
+Global steps: 12519936
+Global steps: 12529920
+Global steps: 12539904
+Global steps: 12549888
+Global steps: 12559872
+Global steps: 12569856
+Global steps: 12579840
+Global steps: 12589824
+Global steps: 12599808
+[PPO] steps=12600000 | reward=16.47 | success=100.0% | SPS=1211
+Global steps: 12609792
+Global steps: 12619776
+Global steps: 12629760
+Global steps: 12639744
+Global steps: 12649728
+Global steps: 12659712
+Global steps: 12669696
+Global steps: 12679680
+Global steps: 12689664
+Global steps: 12699648
+[PPO] steps=12700000 | reward=16.60 | success=100.0% | SPS=1212
+Global steps: 12709632
+Global steps: 12719616
+Global steps: 12729600
+Global steps: 12739584
+Global steps: 12749568
+Global steps: 12759552
+Global steps: 12769536
+Global steps: 12779520
+Global steps: 12789504
+Global steps: 12799488
+[PPO] steps=12800000 | reward=16.32 | success=98.0% | SPS=1211
+Global steps: 12809472
+Global steps: 12819456
+Global steps: 12829440
+Global steps: 12839424
+Global steps: 12849408
+Global steps: 12859392
+Global steps: 12869376
+Global steps: 12879360
+Global steps: 12889344
+Global steps: 12899328
+[PPO] steps=12900000 | reward=16.53 | success=100.0% | SPS=1212
+Global steps: 12909312
+Global steps: 12919296
+Global steps: 12929280
+Global steps: 12939264
+Global steps: 12949248
+Global steps: 12959232
+Global steps: 12969216
+Global steps: 12979200
+Global steps: 12989184
+Global steps: 12999168
+[PPO] steps=13000000 | reward=16.57 | success=100.0% | SPS=1211
+[Checkpoint] Saving model at 13000000 steps -> PPO_runs/metaworld_reach-v3_20260506-001943/ppo_ckpt_13000000_steps.zip
+Global steps: 13009152
+Global steps: 13019136
+Global steps: 13029120
+Global steps: 13039104
+Global steps: 13049088
+Global steps: 13059072
+Global steps: 13069056
+Global steps: 13079040
+Global steps: 13089024
+Global steps: 13099008
+[PPO] steps=13100000 | reward=16.28 | success=96.0% | SPS=1212
+Global steps: 13108992
+Global steps: 13118976
+Global steps: 13128960
+Global steps: 13138944
+Global steps: 13148928
+Global steps: 13158912
+Global steps: 13168896
+Global steps: 13178880
+Global steps: 13188864
+Global steps: 13198848
+[PPO] steps=13200000 | reward=16.05 | success=98.0% | SPS=1211
+Global steps: 13208832
+Global steps: 13218816
+Global steps: 13228800
+Global steps: 13238784
+Global steps: 13248768
+Global steps: 13258752
+Global steps: 13268736
+Global steps: 13278720
+Global steps: 13288704
+Global steps: 13298688
+[PPO] steps=13300000 | reward=16.58 | success=100.0% | SPS=1212
+Global steps: 13308672
+Global steps: 13318656
+Global steps: 13328640
+Global steps: 13338624
+Global steps: 13348608
+Global steps: 13358592
+Global steps: 13368576
+Global steps: 13378560
+Global steps: 13388544
+Global steps: 13398528
+[PPO] steps=13400000 | reward=16.28 | success=100.0% | SPS=1211
+Global steps: 13408512
+Global steps: 13418496
+Global steps: 13428480
+Global steps: 13438464
+Global steps: 13448448
+Global steps: 13458432
+Global steps: 13468416
+Global steps: 13478400
+Global steps: 13488384
+Global steps: 13498368
+[PPO] steps=13500000 | reward=16.55 | success=100.0% | SPS=1212
+Global steps: 13508352
+Global steps: 13518336
+Global steps: 13528320
+Global steps: 13538304
+Global steps: 13548288
+Global steps: 13558272
+Global steps: 13568256
+Global steps: 13578240
+Global steps: 13588224
+Global steps: 13598208
+[PPO] steps=13600000 | reward=16.48 | success=100.0% | SPS=1211
+Global steps: 13608192
+Global steps: 13618176
+Global steps: 13628160
+Global steps: 13638144
+Global steps: 13648128
+Global steps: 13658112
+Global steps: 13668096
+Global steps: 13678080
+Global steps: 13688064
+Global steps: 13698048
+[PPO] steps=13700000 | reward=16.37 | success=100.0% | SPS=1211
+Global steps: 13708032
+Global steps: 13718016
+Global steps: 13728000
+Global steps: 13737984
+Global steps: 13747968
+Global steps: 13757952
+Global steps: 13767936
+Global steps: 13777920
+Global steps: 13787904
+Global steps: 13797888
+[PPO] steps=13800000 | reward=16.31 | success=100.0% | SPS=1211
+Global steps: 13807872
+Global steps: 13817856
+Global steps: 13827840
+Global steps: 13837824
+Global steps: 13847808
+Global steps: 13857792
+Global steps: 13867776
+Global steps: 13877760
+Global steps: 13887744
+Global steps: 13897728
+[PPO] steps=13900000 | reward=16.31 | success=98.0% | SPS=1210
+Global steps: 13907712
+Global steps: 13917696
+Global steps: 13927680
+Global steps: 13937664
+Global steps: 13947648
+Global steps: 13957632
+Global steps: 13967616
+Global steps: 13977600
+Global steps: 13987584
+Global steps: 13997568
+[PPO] steps=14000000 | reward=16.36 | success=98.0% | SPS=1211
+[Checkpoint] Saving model at 14000000 steps -> PPO_runs/metaworld_reach-v3_20260506-001943/ppo_ckpt_14000000_steps.zip
+Global steps: 14007552
+Global steps: 14017536
+Global steps: 14027520
+Global steps: 14037504
+Global steps: 14047488
+Global steps: 14057472
+Global steps: 14067456
+Global steps: 14077440
+Global steps: 14087424
+Global steps: 14097408
+[PPO] steps=14100000 | reward=16.46 | success=100.0% | SPS=1210
+Global steps: 14107392
+Global steps: 14117376
+Global steps: 14127360
+Global steps: 14137344
+Global steps: 14147328
+Global steps: 14157312
+Global steps: 14167296
+Global steps: 14177280
+Global steps: 14187264
+Global steps: 14197248
+[PPO] steps=14200000 | reward=16.48 | success=100.0% | SPS=1211
+Global steps: 14207232
+Global steps: 14217216
+Global steps: 14227200
+Global steps: 14237184
+Global steps: 14247168
+Global steps: 14257152
+Global steps: 14267136
+Global steps: 14277120
+Global steps: 14287104
+Global steps: 14297088
+[PPO] steps=14300000 | reward=16.44 | success=98.0% | SPS=1210
+Global steps: 14307072
+Global steps: 14317056
+Global steps: 14327040
+Global steps: 14337024
+Global steps: 14347008
+Global steps: 14356992
+Global steps: 14366976
+Global steps: 14376960
+Global steps: 14386944
+Global steps: 14396928
+[PPO] steps=14400000 | reward=15.84 | success=94.0% | SPS=1211
+Global steps: 14406912
+Global steps: 14416896
+Global steps: 14426880
+Global steps: 14436864
+Global steps: 14446848
+Global steps: 14456832
+Global steps: 14466816
+Global steps: 14476800
+Global steps: 14486784
+Global steps: 14496768
+[PPO] steps=14500000 | reward=16.61 | success=100.0% | SPS=1210
+Global steps: 14506752
+Global steps: 14516736
+Global steps: 14526720
+Global steps: 14536704
+Global steps: 14546688
+Global steps: 14556672
+Global steps: 14566656
+Global steps: 14576640
+Global steps: 14586624
+Global steps: 14596608
+[PPO] steps=14600000 | reward=16.39 | success=100.0% | SPS=1211
+Global steps: 14606592
+Global steps: 14616576
+Global steps: 14626560
+Global steps: 14636544
+Global steps: 14646528
+Global steps: 14656512
+Global steps: 14666496
+Global steps: 14676480
+Global steps: 14686464
+Global steps: 14696448
+[PPO] steps=14700000 | reward=16.46 | success=100.0% | SPS=1210
+Global steps: 14706432
+Global steps: 14716416
+Global steps: 14726400
+Global steps: 14736384
+Global steps: 14746368
+Global steps: 14756352
+Global steps: 14766336
+Global steps: 14776320
+Global steps: 14786304
+Global steps: 14796288
+[PPO] steps=14800000 | reward=16.53 | success=100.0% | SPS=1211
+Global steps: 14806272
+Global steps: 14816256
+Global steps: 14826240
+Global steps: 14836224
+Global steps: 14846208
+Global steps: 14856192
+Global steps: 14866176
+Global steps: 14876160
+Global steps: 14886144
+Global steps: 14896128
+[PPO] steps=14900000 | reward=16.46 | success=100.0% | SPS=1210
+Global steps: 14906112
+Global steps: 14916096
+Global steps: 14926080
+Global steps: 14936064
+Global steps: 14946048
+Global steps: 14956032
+Global steps: 14966016
+Global steps: 14976000
+Global steps: 14985984
+Global steps: 14995968
+[PPO] steps=15000000 | reward=16.38 | success=98.0% | SPS=1211
+[Checkpoint] Saving model at 15000000 steps -> PPO_runs/metaworld_reach-v3_20260506-001943/ppo_ckpt_15000000_steps.zip
+Global steps: 15005952
+Global steps: 15015936
+Global steps: 15025920
+Global steps: 15035904
+Global steps: 15045888
+Global steps: 15055872
+Global steps: 15065856
+Global steps: 15075840
+Global steps: 15085824
+Global steps: 15095808
+[PPO] steps=15100000 | reward=16.50 | success=98.0% | SPS=1210
+Global steps: 15105792
+Global steps: 15115776
+Global steps: 15125760
+Global steps: 15135744
+Global steps: 15145728
+Global steps: 15155712
+Global steps: 15165696
+Global steps: 15175680
+Global steps: 15185664
+Global steps: 15195648
+[PPO] steps=15200000 | reward=16.59 | success=100.0% | SPS=1211
+Global steps: 15205632
+Global steps: 15215616
+Global steps: 15225600
+Global steps: 15235584
+Global steps: 15245568
+Global steps: 15255552
+Global steps: 15265536
+Global steps: 15275520
+Global steps: 15285504
+Global steps: 15295488
+[PPO] steps=15300000 | reward=16.16 | success=96.0% | SPS=1210
+Global steps: 15305472
+Global steps: 15315456
+Global steps: 15325440
+Global steps: 15335424
+Global steps: 15345408
+Global steps: 15355392
+Global steps: 15365376
+Global steps: 15375360
+Global steps: 15385344
+Global steps: 15395328
+[PPO] steps=15400000 | reward=16.59 | success=100.0% | SPS=1211
+Global steps: 15405312
+Global steps: 15415296
+Global steps: 15425280
+Global steps: 15435264
+Global steps: 15445248
+Global steps: 15455232
+Global steps: 15465216
+Global steps: 15475200
+Global steps: 15485184
+Global steps: 15495168
+[PPO] steps=15500000 | reward=16.47 | success=100.0% | SPS=1210
+Global steps: 15505152
+Global steps: 15515136
+Global steps: 15525120
+Global steps: 15535104
+Global steps: 15545088
+Global steps: 15555072
+Global steps: 15565056
+Global steps: 15575040
+Global steps: 15585024
+Global steps: 15595008
+[PPO] steps=15600000 | reward=16.57 | success=98.0% | SPS=1209
+Global steps: 15604992
+Global steps: 15614976
+Global steps: 15624960
+Global steps: 15634944
+Global steps: 15644928
+Global steps: 15654912
+Global steps: 15664896
+Global steps: 15674880
+Global steps: 15684864
+Global steps: 15694848
+[PPO] steps=15700000 | reward=16.43 | success=98.0% | SPS=1210
+Global steps: 15704832
+Global steps: 15714816
+Global steps: 15724800
+Global steps: 15734784
+Global steps: 15744768
+Global steps: 15754752
+Global steps: 15764736
+Global steps: 15774720
+Global steps: 15784704
+Global steps: 15794688
+[PPO] steps=15800000 | reward=16.54 | success=100.0% | SPS=1209
+Global steps: 15804672
+Global steps: 15814656
+Global steps: 15824640
+Global steps: 15834624
+Global steps: 15844608
+Global steps: 15854592
+Global steps: 15864576
+Global steps: 15874560
+Global steps: 15884544
+Global steps: 15894528
+[PPO] steps=15900000 | reward=16.33 | success=100.0% | SPS=1210
+Global steps: 15904512
+Global steps: 15914496
+Global steps: 15924480
+Global steps: 15934464
+Global steps: 15944448
+Global steps: 15954432
+Global steps: 15964416
+Global steps: 15974400
+Global steps: 15984384
+Global steps: 15994368
+[PPO] steps=16000000 | reward=16.45 | success=98.0% | SPS=1209
+[Checkpoint] Saving model at 16000000 steps -> PPO_runs/metaworld_reach-v3_20260506-001943/ppo_ckpt_16000000_steps.zip
+Global steps: 16004352
+Global steps: 16014336
+Global steps: 16024320
+Global steps: 16034304
+Global steps: 16044288
+Global steps: 16054272
+Global steps: 16064256
+Global steps: 16074240
+Global steps: 16084224
+Global steps: 16094208
+[PPO] steps=16100000 | reward=16.35 | success=96.0% | SPS=1210
+Global steps: 16104192
+Global steps: 16114176
+Global steps: 16124160
+Global steps: 16134144
+Global steps: 16144128
+Global steps: 16154112
+Global steps: 16164096
+Global steps: 16174080
+Global steps: 16184064
+Global steps: 16194048
+[PPO] steps=16200000 | reward=16.51 | success=98.0% | SPS=1209
+Global steps: 16204032
+Global steps: 16214016
+Global steps: 16224000
+Global steps: 16233984
+Global steps: 16243968
+Global steps: 16253952
+Global steps: 16263936
+Global steps: 16273920
+Global steps: 16283904
+Global steps: 16293888
+[PPO] steps=16300000 | reward=16.50 | success=98.0% | SPS=1210
+Global steps: 16303872
+Global steps: 16313856
+Global steps: 16323840
+Global steps: 16333824
+Global steps: 16343808
+Global steps: 16353792
+Global steps: 16363776
+Global steps: 16373760
+Global steps: 16383744
+Global steps: 16393728
+[PPO] steps=16400000 | reward=16.31 | success=96.0% | SPS=1209
+Global steps: 16403712
+Global steps: 16413696
+Global steps: 16423680
+Global steps: 16433664
+Global steps: 16443648
+Global steps: 16453632
+Global steps: 16463616
+Global steps: 16473600
+Global steps: 16483584
+Global steps: 16493568
+[PPO] steps=16500000 | reward=16.63 | success=100.0% | SPS=1210
+Global steps: 16503552
+Global steps: 16513536
+Global steps: 16523520
+Global steps: 16533504
+Global steps: 16543488
+Global steps: 16553472
+Global steps: 16563456
+Global steps: 16573440
+Global steps: 16583424
+Global steps: 16593408
+[PPO] steps=16600000 | reward=16.61 | success=100.0% | SPS=1209
+Global steps: 16603392
+Global steps: 16613376
+Global steps: 16623360
+Global steps: 16633344
+Global steps: 16643328
+Global steps: 16653312
+Global steps: 16663296
+Global steps: 16673280
+Global steps: 16683264
+Global steps: 16693248
+[PPO] steps=16700000 | reward=16.51 | success=100.0% | SPS=1210
+Global steps: 16703232
+Global steps: 16713216
+Global steps: 16723200
+Global steps: 16733184
+Global steps: 16743168
+Global steps: 16753152
+Global steps: 16763136
+Global steps: 16773120
+Global steps: 16783104
+Global steps: 16793088
+[PPO] steps=16800000 | reward=16.54 | success=100.0% | SPS=1209
+Global steps: 16803072
+Global steps: 16813056
+Global steps: 16823040
+Global steps: 16833024
+Global steps: 16843008
+Global steps: 16852992
+Global steps: 16862976
+Global steps: 16872960
+Global steps: 16882944
+Global steps: 16892928
+[PPO] steps=16900000 | reward=16.52 | success=100.0% | SPS=1210
+Global steps: 16902912
+Global steps: 16912896
+Global steps: 16922880
+Global steps: 16932864
+Global steps: 16942848
+Global steps: 16952832
+Global steps: 16962816
+Global steps: 16972800
+Global steps: 16982784
+Global steps: 16992768
+[PPO] steps=17000000 | reward=16.70 | success=100.0% | SPS=1209
+[Checkpoint] Saving model at 17000000 steps -> PPO_runs/metaworld_reach-v3_20260506-001943/ppo_ckpt_17000000_steps.zip
+Global steps: 17002752
+Global steps: 17012736
+Global steps: 17022720
+Global steps: 17032704
+Global steps: 17042688
+Global steps: 17052672
+Global steps: 17062656
+Global steps: 17072640
+Global steps: 17082624
+Global steps: 17092608
+[PPO] steps=17100000 | reward=16.72 | success=100.0% | SPS=1210
+Global steps: 17102592
+Global steps: 17112576
+Global steps: 17122560
+Global steps: 17132544
+Global steps: 17142528
+Global steps: 17152512
+Global steps: 17162496
+Global steps: 17172480
+Global steps: 17182464
+Global steps: 17192448
+[PPO] steps=17200000 | reward=16.52 | success=98.0% | SPS=1209
+Global steps: 17202432
+Global steps: 17212416
+Global steps: 17222400
+Global steps: 17232384
+Global steps: 17242368
+Global steps: 17252352
+Global steps: 17262336
+Global steps: 17272320
+Global steps: 17282304
+Global steps: 17292288
+[PPO] steps=17300000 | reward=16.03 | success=94.0% | SPS=1209
+Global steps: 17302272
+Global steps: 17312256
+Global steps: 17322240
+Global steps: 17332224
+Global steps: 17342208
+Global steps: 17352192
+Global steps: 17362176
+Global steps: 17372160
+Global steps: 17382144
+Global steps: 17392128
+[PPO] steps=17400000 | reward=16.72 | success=100.0% | SPS=1209
+Global steps: 17402112
+Global steps: 17412096
+Global steps: 17422080
+Global steps: 17432064
+Global steps: 17442048
+Global steps: 17452032
+Global steps: 17462016
+Global steps: 17472000
+Global steps: 17481984
+Global steps: 17491968
+[PPO] steps=17500000 | reward=16.73 | success=100.0% | SPS=1208
+Global steps: 17501952
+Global steps: 17511936
+Global steps: 17521920
+Global steps: 17531904
+Global steps: 17541888
+Global steps: 17551872
+Global steps: 17561856
+Global steps: 17571840
+Global steps: 17581824
+Global steps: 17591808
+[PPO] steps=17600000 | reward=16.27 | success=96.0% | SPS=1208
+Global steps: 17601792
+Global steps: 17611776
+Global steps: 17621760
+Global steps: 17631744
+Global steps: 17641728
+Global steps: 17651712
+Global steps: 17661696
+Global steps: 17671680
+Global steps: 17681664
+Global steps: 17691648
+[PPO] steps=17700000 | reward=16.49 | success=98.0% | SPS=1208
+Global steps: 17701632
+Global steps: 17711616
+Global steps: 17721600
+Global steps: 17731584
+Global steps: 17741568
+Global steps: 17751552
+Global steps: 17761536
+Global steps: 17771520
+Global steps: 17781504
+Global steps: 17791488
+[PPO] steps=17800000 | reward=16.75 | success=100.0% | SPS=1208
+Global steps: 17801472
+Global steps: 17811456
+Global steps: 17821440
+Global steps: 17831424
+Global steps: 17841408
+Global steps: 17851392
+Global steps: 17861376
+Global steps: 17871360
+Global steps: 17881344
+Global steps: 17891328
+[PPO] steps=17900000 | reward=16.47 | success=100.0% | SPS=1208
+Global steps: 17901312
+Global steps: 17911296
+Global steps: 17921280
+Global steps: 17931264
+Global steps: 17941248
+Global steps: 17951232
+Global steps: 17961216
+Global steps: 17971200
+Global steps: 17981184
+Global steps: 17991168
+[PPO] steps=18000000 | reward=16.39 | success=100.0% | SPS=1208
+[Checkpoint] Saving model at 18000000 steps -> PPO_runs/metaworld_reach-v3_20260506-001943/ppo_ckpt_18000000_steps.zip
+Global steps: 18001152
+Global steps: 18011136
+Global steps: 18021120
+Global steps: 18031104
+Global steps: 18041088
+Global steps: 18051072
+Global steps: 18061056
+Global steps: 18071040
+Global steps: 18081024
+Global steps: 18091008
+[PPO] steps=18100000 | reward=16.27 | success=98.0% | SPS=1207
+Global steps: 18100992
+Global steps: 18110976
+Global steps: 18120960
+Global steps: 18130944
+Global steps: 18140928
+Global steps: 18150912
+Global steps: 18160896
+Global steps: 18170880
+Global steps: 18180864
+Global steps: 18190848
+[PPO] steps=18200000 | reward=16.43 | success=98.0% | SPS=1208
+Global steps: 18200832
+Global steps: 18210816
+Global steps: 18220800
+Global steps: 18230784
+Global steps: 18240768
+Global steps: 18250752
+Global steps: 18260736
+Global steps: 18270720
+Global steps: 18280704
+Global steps: 18290688
+[PPO] steps=18300000 | reward=16.37 | success=100.0% | SPS=1207
+Global steps: 18300672
+Global steps: 18310656
+Global steps: 18320640
+Global steps: 18330624
+Global steps: 18340608
+Global steps: 18350592
+Global steps: 18360576
+Global steps: 18370560
+Global steps: 18380544
+Global steps: 18390528
+[PPO] steps=18400000 | reward=16.40 | success=96.0% | SPS=1208
+Global steps: 18400512
+Global steps: 18410496
+Global steps: 18420480
+Global steps: 18430464
+Global steps: 18440448
+Global steps: 18450432
+Global steps: 18460416
+Global steps: 18470400
+Global steps: 18480384
+Global steps: 18490368
+[PPO] steps=18500000 | reward=16.45 | success=98.0% | SPS=1207
+Global steps: 18500352
+Global steps: 18510336
+Global steps: 18520320
+Global steps: 18530304
+Global steps: 18540288
+Global steps: 18550272
+Global steps: 18560256
+Global steps: 18570240
+Global steps: 18580224
+Global steps: 18590208
+[PPO] steps=18600000 | reward=16.66 | success=100.0% | SPS=1208
+Global steps: 18600192
+Global steps: 18610176
+Global steps: 18620160
+Global steps: 18630144
+Global steps: 18640128
+Global steps: 18650112
+Global steps: 18660096
+Global steps: 18670080
+Global steps: 18680064
+Global steps: 18690048
+[PPO] steps=18700000 | reward=16.49 | success=98.0% | SPS=1207
+Global steps: 18700032
+Global steps: 18710016
+Global steps: 18720000
+Global steps: 18729984
+Global steps: 18739968
+Global steps: 18749952
+Global steps: 18759936
+Global steps: 18769920
+Global steps: 18779904
+Global steps: 18789888
+Global steps: 18799872
+[PPO] steps=18800000 | reward=16.61 | success=100.0% | SPS=1208
+Global steps: 18809856
+Global steps: 18819840
+Global steps: 18829824
+Global steps: 18839808
+Global steps: 18849792
+Global steps: 18859776
+Global steps: 18869760
+Global steps: 18879744
+Global steps: 18889728
+Global steps: 18899712
+[PPO] steps=18900000 | reward=16.72 | success=98.0% | SPS=1207
+Global steps: 18909696
+Global steps: 18919680
+Global steps: 18929664
+Global steps: 18939648
+Global steps: 18949632
+Global steps: 18959616
+Global steps: 18969600
+Global steps: 18979584
+Global steps: 18989568
+Global steps: 18999552
+[PPO] steps=19000000 | reward=16.69 | success=100.0% | SPS=1208
+[Checkpoint] Saving model at 19000000 steps -> PPO_runs/metaworld_reach-v3_20260506-001943/ppo_ckpt_19000000_steps.zip
+Global steps: 19009536
+Global steps: 19019520
+Global steps: 19029504
+Global steps: 19039488
+Global steps: 19049472
+Global steps: 19059456
+Global steps: 19069440
+Global steps: 19079424
+Global steps: 19089408
+Global steps: 19099392
+[PPO] steps=19100000 | reward=16.58 | success=100.0% | SPS=1207
+Global steps: 19109376
+Global steps: 19119360
+Global steps: 19129344
+Global steps: 19139328
+Global steps: 19149312
+Global steps: 19159296
+Global steps: 19169280
+Global steps: 19179264
+Global steps: 19189248
+Global steps: 19199232
+[PPO] steps=19200000 | reward=16.70 | success=98.0% | SPS=1208
+Global steps: 19209216
+Global steps: 19219200
+Global steps: 19229184
+Global steps: 19239168
+Global steps: 19249152
+Global steps: 19259136
+Global steps: 19269120
+Global steps: 19279104
+Global steps: 19289088
+Global steps: 19299072
+[PPO] steps=19300000 | reward=16.39 | success=98.0% | SPS=1207
+Global steps: 19309056
+Global steps: 19319040
+Global steps: 19329024
+Global steps: 19339008
+Global steps: 19348992
+Global steps: 19358976
+Global steps: 19368960
+Global steps: 19378944
+Global steps: 19388928
+Global steps: 19398912
+[PPO] steps=19400000 | reward=16.51 | success=98.0% | SPS=1206
+Global steps: 19408896
+Global steps: 19418880
+Global steps: 19428864
+Global steps: 19438848
+Global steps: 19448832
+Global steps: 19458816
+Global steps: 19468800
+Global steps: 19478784
+Global steps: 19488768
+Global steps: 19498752
+[PPO] steps=19500000 | reward=16.37 | success=98.0% | SPS=1207
+Global steps: 19508736
+Global steps: 19518720
+Global steps: 19528704
+Global steps: 19538688
+Global steps: 19548672
+Global steps: 19558656
+Global steps: 19568640
+Global steps: 19578624
+Global steps: 19588608
+Global steps: 19598592
+[PPO] steps=19600000 | reward=16.62 | success=100.0% | SPS=1206
+Global steps: 19608576
+Global steps: 19618560
+Global steps: 19628544
+Global steps: 19638528
+Global steps: 19648512
+Global steps: 19658496
+Global steps: 19668480
+Global steps: 19678464
+Global steps: 19688448
+Global steps: 19698432
+[PPO] steps=19700000 | reward=16.48 | success=100.0% | SPS=1207
+Global steps: 19708416
+Global steps: 19718400
+Global steps: 19728384
+Global steps: 19738368
+Global steps: 19748352
+Global steps: 19758336
+Global steps: 19768320
+Global steps: 19778304
+Global steps: 19788288
+Global steps: 19798272
+[PPO] steps=19800000 | reward=16.71 | success=100.0% | SPS=1206
+Global steps: 19808256
+Global steps: 19818240
+Global steps: 19828224
+Global steps: 19838208
+Global steps: 19848192
+Global steps: 19858176
+Global steps: 19868160
+Global steps: 19878144
+Global steps: 19888128
+Global steps: 19898112
+[PPO] steps=19900000 | reward=16.61 | success=98.0% | SPS=1207
+Global steps: 19908096
+Global steps: 19918080
+Global steps: 19928064
+Global steps: 19938048
+Global steps: 19948032
+Global steps: 19958016
+Global steps: 19968000
+Global steps: 19977984
+Global steps: 19987968
+Global steps: 19997952
+[PPO] steps=20000000 | reward=16.52 | success=100.0% | SPS=1206
+[Checkpoint] Saving model at 20000000 steps -> PPO_runs/metaworld_reach-v3_20260506-001943/ppo_ckpt_20000000_steps.zip
+Global steps: 20007936
+Global steps: 20017920
+Global steps: 20027904
+Global steps: 20037888
+Global steps: 20047872
+Training complete.
